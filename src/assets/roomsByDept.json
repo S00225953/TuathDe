@@ -1,0 +1,1027 @@
+[
+    {
+        "name": "A0004 (132)",
+        "id": "Business",
+        "code": "A0004"
+    },
+    {
+        "name": "A0005 (132)",
+        "id": "Business",
+        "code": "A0005"
+    },
+    {
+        "name": "A0006 (152)",
+        "id": "Business",
+        "code": "A0006"
+    },
+    {
+        "name": "A2007 (40)",
+        "id": "Engineering and Design",
+        "code": "A2007"
+    },
+    {
+        "name": "AR10003 (32)",
+        "id": "Engineering and Design",
+        "code": "AR10003"
+    },
+    {
+        "name": "AR1005 (20)",
+        "id": "Engineering and Design",
+        "code": "AR1005"
+    },
+    {
+        "name": "AR2001 (32)",
+        "id": "Engineering and Design",
+        "code": "AR2001"
+    },
+    {
+        "name": "AR2002 (40)",
+        "id": "Engineering and Design",
+        "code": "AR2002"
+    },
+    {
+        "name": "AR2003 (32)",
+        "id": "Engineering and Design",
+        "code": "AR2003"
+    },
+    {
+        "name": "AR2005 (48)",
+        "id": "Engineering and Design",
+        "code": "AR2005"
+    },
+    {
+        "name": "AR2006 (32)",
+        "id": "Engineering and Design",
+        "code": "AR2006"
+    },
+    {
+        "name": "AR2011 (32)",
+        "id": "Engineering and Design",
+        "code": "AR2011"
+    },
+    {
+        "name": "AR2012 (1)",
+        "id": "Engineering and Design",
+        "code": "AR2012"
+    },
+    {
+        "name": "AR2013 (1)",
+        "id": "Engineering and Design",
+        "code": "AR2013"
+    },
+    {
+        "name": "AR2014 (30)",
+        "id": "Engineering and Design",
+        "code": "AR2014"
+    },
+    {
+        "name": "B1041 (32)",
+        "id": "Business",
+        "code": "B1041"
+    },
+    {
+        "name": "B1042 (30)",
+        "id": "Business",
+        "code": "B1042"
+    },
+    {
+        "name": "B1043 (24)",
+        "id": "Computing and Creative Practices",
+        "code": "B1043"
+    },
+    {
+        "name": "B1050 (32)",
+        "id": "Computing and Creative Practices",
+        "code": "B1050"
+    },
+    {
+        "name": "B1051 A (10)",
+        "id": "#SPLUS9FFF3E",
+        "code": "B1051%20A"
+    },
+    {
+        "name": "B1051 B (10)",
+        "id": "#SPLUS9FFF3E",
+        "code": "B1051%20B"
+    },
+    {
+        "name": "B1051 C (10)",
+        "id": "#SPLUS9FFF3E",
+        "code": "B1051%20C"
+    },
+    {
+        "name": "B1058 (58)",
+        "id": "Life Sciences",
+        "code": "B1058"
+    },
+    {
+        "name": "B1080 (40)",
+        "id": "Business",
+        "code": "B1080"
+    },
+    {
+        "name": "B1081 (40)",
+        "id": "Business",
+        "code": "B1081"
+    },
+    {
+        "name": "B1082 (34)",
+        "id": "Business",
+        "code": "B1082"
+    },
+    {
+        "name": "B1086 (30)",
+        "id": "Social Sciences",
+        "code": "B1086"
+    },
+    {
+        "name": "B1094 (280)",
+        "id": "Life Sciences",
+        "code": "B1094"
+    },
+    {
+        "name": "B1123 (30)",
+        "id": "Computing and Creative Practices",
+        "code": "B1123"
+    },
+    {
+        "name": "B1201 (36)",
+        "id": "Environmental Sciences",
+        "code": "B1201"
+    },
+    {
+        "name": "B1202 (32)",
+        "id": "Environmental Sciences",
+        "code": "B1202"
+    },
+    {
+        "name": "B2001 (40)",
+        "id": "SCIENCE",
+        "code": "B2001"
+    },
+    {
+        "name": "B2002 (44)",
+        "id": "SCIENCE",
+        "code": "B2002"
+    },
+    {
+        "name": "B2004 (32)",
+        "id": "SCIENCE",
+        "code": "B2004"
+    },
+    {
+        "name": "B2006 (15)",
+        "id": "Life Sciences",
+        "code": "B2006"
+    },
+    {
+        "name": "B2007 (32)",
+        "id": "SCIENCE",
+        "code": "B2007"
+    },
+    {
+        "name": "B2008 (30)",
+        "id": "Marketing, Tourism and Sport",
+        "code": "B2008"
+    },
+    {
+        "name": "B2009 (30)",
+        "id": "Business",
+        "code": "B2009"
+    },
+    {
+        "name": "B2029 (8)",
+        "id": "SCIENCE",
+        "code": "B2029"
+    },
+    {
+        "name": "B2031 (24)",
+        "id": "SCIENCE",
+        "code": "B2031"
+    },
+    {
+        "name": "B2043 (18)",
+        "id": "SCIENCE",
+        "code": "B2043"
+    },
+    {
+        "name": "B2045 (60)",
+        "id": "SCIENCE",
+        "code": "B2045"
+    },
+    {
+        "name": "B2046 (30)",
+        "id": "SCIENCE",
+        "code": "B2046"
+    },
+    {
+        "name": "B2051 (40)",
+        "id": "SCIENCE",
+        "code": "B2051"
+    },
+    {
+        "name": "B2052 (8)",
+        "id": "SCIENCE",
+        "code": "B2052"
+    },
+    {
+        "name": "B2061 (24)",
+        "id": "Life Sciences",
+        "code": "B2061"
+    },
+    {
+        "name": "B2062 (4)",
+        "id": "Life Sciences",
+        "code": "B2062"
+    },
+    {
+        "name": "B2080 (28)",
+        "id": "SCIENCE",
+        "code": "B2080"
+    },
+    {
+        "name": "B2081 (32)",
+        "id": "SCIENCE",
+        "code": "B2081"
+    },
+    {
+        "name": "B2082 (24)",
+        "id": "SCIENCE",
+        "code": "B2082"
+    },
+    {
+        "name": "B2083 (32)",
+        "id": "SCIENCE",
+        "code": "B2083"
+    },
+    {
+        "name": "B2084 (32)",
+        "id": "SCIENCE",
+        "code": "B2084"
+    },
+    {
+        "name": "B2085 (32)",
+        "id": "SCIENCE",
+        "code": "B2085"
+    },
+    {
+        "name": "B2100(1) (1)",
+        "id": "SCIENCE",
+        "code": "B2100%281%29"
+    },
+    {
+        "name": "B2100(2) (1)",
+        "id": "SCIENCE",
+        "code": "B2100%282%29"
+    },
+    {
+        "name": "B2100(3) (1)",
+        "id": "SCIENCE",
+        "code": "B2100%283%29"
+    },
+    {
+        "name": "B2113 (32)",
+        "id": "SCIENCE",
+        "code": "B2113"
+    },
+    {
+        "name": "B2201 (10)",
+        "id": "Environmental Sciences",
+        "code": "B2201"
+    },
+    {
+        "name": "B2202 (24)",
+        "id": "Life Sciences",
+        "code": "B2202"
+    },
+    {
+        "name": "B2220 (20)",
+        "id": "Life Sciences",
+        "code": "B2220"
+    },
+    {
+        "name": "B2221 (20)",
+        "id": "SCIENCE",
+        "code": "B2221"
+    },
+    {
+        "name": "B2222 (10)",
+        "id": "Environmental Sciences",
+        "code": "B2222"
+    },
+    {
+        "name": "B2223 (6)",
+        "id": "Environmental Sciences",
+        "code": "B2223"
+    },
+    {
+        "name": "B3201 (24)",
+        "id": "Life Sciences",
+        "code": "B3201"
+    },
+    {
+        "name": "B3202 (40)",
+        "id": "Environmental Sciences",
+        "code": "B3202"
+    },
+    {
+        "name": "B3203 (16)",
+        "id": "Life Sciences",
+        "code": "B3203"
+    },
+    {
+        "name": "B3220 (80)",
+        "id": "SCIENCE",
+        "code": "B3220"
+    },
+    {
+        "name": "B3224 (4)",
+        "id": "SCIENCE",
+        "code": "B3224"
+    },
+    {
+        "name": "C1001 (24)",
+        "id": "Business",
+        "code": "C1001"
+    },
+    {
+        "name": "C1002 (22)",
+        "id": "Business",
+        "code": "C1002"
+    },
+    {
+        "name": "C1004 (80)",
+        "id": "Business",
+        "code": "C1004"
+    },
+    {
+        "name": "C1005 (40)",
+        "id": "Business",
+        "code": "C1005"
+    },
+    {
+        "name": "C1006 (67)",
+        "id": "Business",
+        "code": "C1006"
+    },
+    {
+        "name": "C2001 (32)",
+        "id": "SCIENCE",
+        "code": "C2001"
+    },
+    {
+        "name": "C2004 (60)",
+        "id": "Business",
+        "code": "C2004"
+    },
+    {
+        "name": "Clayton (40)",
+        "id": "SCIENCE",
+        "code": "Clayton"
+    },
+    {
+        "name": "D1001 (62)",
+        "id": "Business",
+        "code": "D1001"
+    },
+    {
+        "name": "D1002 (48)",
+        "id": "Business",
+        "code": "D1002"
+    },
+    {
+        "name": "D1004 (45)",
+        "id": "Business",
+        "code": "D1004"
+    },
+    {
+        "name": "D1010 (10)",
+        "id": "Business and Social Sciences",
+        "code": "D1010"
+    },
+    {
+        "name": "D1012 (38)",
+        "id": "Business",
+        "code": "D1012"
+    },
+    {
+        "name": "D1018 (20)",
+        "id": "Social Sciences",
+        "code": "D1018"
+    },
+    {
+        "name": "D1021 (16)",
+        "id": "Business",
+        "code": "D1021"
+    },
+    {
+        "name": "D1024 (40)",
+        "id": "Business",
+        "code": "D1024"
+    },
+    {
+        "name": "D1025 (60)",
+        "id": "Business",
+        "code": "D1025"
+    },
+    {
+        "name": "D1027 (60)",
+        "id": "Business",
+        "code": "D1027"
+    },
+    {
+        "name": "D1031 (70)",
+        "id": "Business",
+        "code": "D1031"
+    },
+    {
+        "name": "D1032 (20)",
+        "id": "Social Sciences",
+        "code": "D1032"
+    },
+    {
+        "name": "D2005 (16)",
+        "id": "Social Sciences",
+        "code": "D2005"
+    },
+    {
+        "name": "D2007 (16)",
+        "id": "Social Sciences",
+        "code": "D2007"
+    },
+    {
+        "name": "D2010 (10)",
+        "id": "Business",
+        "code": "D2010"
+    },
+    {
+        "name": "D2013 (70)",
+        "id": "Business",
+        "code": "D2013"
+    },
+    {
+        "name": "D2014 (8)",
+        "id": "Business",
+        "code": "D2014"
+    },
+    {
+        "name": "D2017 (65)",
+        "id": "Business",
+        "code": "D2017"
+    },
+    {
+        "name": "D2021 (66)",
+        "id": "Business",
+        "code": "D2021"
+    },
+    {
+        "name": "D2022 (48)",
+        "id": "Business",
+        "code": "D2022"
+    },
+    {
+        "name": "D2033 (24)",
+        "id": "SCIENCE",
+        "code": "D2033"
+    },
+    {
+        "name": "D2034 (12)",
+        "id": "Business",
+        "code": "D2034"
+    },
+    {
+        "name": "D2036 (32)",
+        "id": "Business",
+        "code": "D2036"
+    },
+    {
+        "name": "D2037 (36)",
+        "id": "Business",
+        "code": "D2037"
+    },
+    {
+        "name": "D2038 (32)",
+        "id": "Business",
+        "code": "D2038"
+    },
+    {
+        "name": "D2039 (32)",
+        "id": "Business",
+        "code": "D2039"
+    },
+    {
+        "name": "E0008 (16)",
+        "id": "Engineering and Design",
+        "code": "E0008"
+    },
+    {
+        "name": "E0009 (16)",
+        "id": "Engineering and Design",
+        "code": "E0009"
+    },
+    {
+        "name": "E0010 (12)",
+        "id": "Engineering and Design",
+        "code": "E0010"
+    },
+    {
+        "name": "E0011 (99)",
+        "id": "Engineering and Design",
+        "code": "E0011"
+    },
+    {
+        "name": "E0017 (106)",
+        "id": "Engineering and Design",
+        "code": "E0017"
+    },
+    {
+        "name": "E0028 (32)",
+        "id": "Engineering and Design",
+        "code": "E0028"
+    },
+    {
+        "name": "E0029 (32)",
+        "id": "Engineering and Design",
+        "code": "E0029"
+    },
+    {
+        "name": "E0030 (32)",
+        "id": "Engineering and Design",
+        "code": "E0030"
+    },
+    {
+        "name": "E0031 (32)",
+        "id": "Engineering and Design",
+        "code": "E0031"
+    },
+    {
+        "name": "E0032 (32)",
+        "id": "Engineering and Design",
+        "code": "E0032"
+    },
+    {
+        "name": "E1006 (48)",
+        "id": "Engineering and Design",
+        "code": "E1006"
+    },
+    {
+        "name": "E1007 (48)",
+        "id": "Engineering and Design",
+        "code": "E1007"
+    },
+    {
+        "name": "E1008 (48)",
+        "id": "Engineering and Design",
+        "code": "E1008"
+    },
+    {
+        "name": "E1009 (24)",
+        "id": "Computing and Creative Practices",
+        "code": "E1009"
+    },
+    {
+        "name": "E1010 (30)",
+        "id": "Computing and Creative Practices",
+        "code": "E1010"
+    },
+    {
+        "name": "E1011 (15)",
+        "id": "Engineering and Design",
+        "code": "E1011"
+    },
+    {
+        "name": "E1012 (15)",
+        "id": "Engineering and Design",
+        "code": "E1012"
+    },
+    {
+        "name": "E1014 (16)",
+        "id": "Engineering and Design",
+        "code": "E1014"
+    },
+    {
+        "name": "E1016 (16)",
+        "id": "Engineering and Design",
+        "code": "E1016"
+    },
+    {
+        "name": "E1017 (32)",
+        "id": "Engineering and Design",
+        "code": "E1017"
+    },
+    {
+        "name": "E1018 (32)",
+        "id": "Engineering and Design",
+        "code": "E1018"
+    },
+    {
+        "name": "E1019 (32)",
+        "id": "Engineering and Design",
+        "code": "E1019"
+    },
+    {
+        "name": "E2003 (16)",
+        "id": "Engineering and Design",
+        "code": "E2003"
+    },
+    {
+        "name": "E2004 (32)",
+        "id": "Engineering and Design",
+        "code": "E2004"
+    },
+    {
+        "name": "E2007 (16)",
+        "id": "Engineering and Design",
+        "code": "E2007"
+    },
+    {
+        "name": "E2008 (20)",
+        "id": "Engineering and Design",
+        "code": "E2008"
+    },
+    {
+        "name": "E2009 (31)",
+        "id": "Engineering and Design",
+        "code": "E2009"
+    },
+    {
+        "name": "E2021 (16)",
+        "id": "Engineering and Design",
+        "code": "E2021"
+    },
+    {
+        "name": "E2022 (16)",
+        "id": "Engineering and Design",
+        "code": "E2022"
+    },
+    {
+        "name": "F0001A (16)",
+        "id": "Engineering and Design",
+        "code": "F0001A"
+    },
+    {
+        "name": "F0001B (16)",
+        "id": "Engineering and Design",
+        "code": "F0001B"
+    },
+    {
+        "name": "F0005 (35)",
+        "id": "Engineering and Design",
+        "code": "F0005"
+    },
+    {
+        "name": "F0006 (20)",
+        "id": "Engineering and Design",
+        "code": "F0006"
+    },
+    {
+        "name": "F0009 (18)",
+        "id": "Engineering and Design",
+        "code": "F0009"
+    },
+    {
+        "name": "F0010 (32)",
+        "id": "SCIENCE",
+        "code": "F0010"
+    },
+    {
+        "name": "F0011 (32)",
+        "id": "Engineering and Design",
+        "code": "F0011"
+    },
+    {
+        "name": "F0012 (38)",
+        "id": "Engineering and Design",
+        "code": "F0012"
+    },
+    {
+        "name": "F0013 (16)",
+        "id": "Mech. and Electronic Eng.",
+        "code": "F0013"
+    },
+    {
+        "name": "F0014 (30)",
+        "id": "SCIENCE",
+        "code": "F0014"
+    },
+    {
+        "name": "F0023A (16)",
+        "id": "Engineering and Design",
+        "code": "F0023A"
+    },
+    {
+        "name": "F0023B (16)",
+        "id": "Engineering and Design",
+        "code": "F0023B"
+    },
+    {
+        "name": "F1005 (16)",
+        "id": "Engineering and Design",
+        "code": "F1005"
+    },
+    {
+        "name": "F1006 (16)",
+        "id": "Engineering and Design",
+        "code": "F1006"
+    },
+    {
+        "name": "F1009 (32)",
+        "id": "Engineering and Design",
+        "code": "F1009"
+    },
+    {
+        "name": "F1012 (32)",
+        "id": "Civil Eng. and Construction",
+        "code": "F1012"
+    },
+    {
+        "name": "F1015 (12)",
+        "id": "Civil Eng. and Construction",
+        "code": "F1015"
+    },
+    {
+        "name": "F1017 (24)",
+        "id": "Engineering and Design",
+        "code": "F1017"
+    },
+    {
+        "name": "F1020 (32)",
+        "id": "Engineering and Design",
+        "code": "F1020"
+    },
+    {
+        "name": "G1003 (16)",
+        "id": "#SPLUS9FFF3E",
+        "code": "G1003"
+    },
+    {
+        "name": "G1030 (32)",
+        "id": "Apprenticeships",
+        "code": "G1030"
+    },
+    {
+        "name": "H1001 (250)",
+        "id": "Knocknarea Arena",
+        "code": "H1001"
+    },
+    {
+        "name": "K0001 (12)",
+        "id": "Computing and Creative Practices",
+        "code": "K0001"
+    },
+    {
+        "name": "K0002 (12)",
+        "id": "Computing and Creative Practices",
+        "code": "K0002"
+    },
+    {
+        "name": "K0003 (12)",
+        "id": "Computing and Creative Practices",
+        "code": "K0003"
+    },
+    {
+        "name": "K0007 (16)",
+        "id": "Computing and Creative Practices",
+        "code": "K0007"
+    },
+    {
+        "name": "K0011 (12)",
+        "id": "Computing and Creative Practices",
+        "code": "K0011"
+    },
+    {
+        "name": "K0012 (14)",
+        "id": "Computing and Creative Practices",
+        "code": "K0012"
+    },
+    {
+        "name": "K0013 (12)",
+        "id": "Computing and Creative Practices",
+        "code": "K0013"
+    },
+    {
+        "name": "K0015 (12)",
+        "id": "Computing and Creative Practices",
+        "code": "K0015"
+    },
+    {
+        "name": "K0022 (12)",
+        "id": "Computing and Creative Practices",
+        "code": "K0022"
+    },
+    {
+        "name": "K0028 (32)",
+        "id": "#SPLUS9FFF3E",
+        "code": "K0028"
+    },
+    {
+        "name": "K0032 (32)",
+        "id": "#SPLUS9FFF3E",
+        "code": "K0032"
+    },
+    {
+        "name": "L0001 (32)",
+        "id": "Computing and Creative Practices",
+        "code": "L0001"
+    },
+    {
+        "name": "L0006 (9)",
+        "id": "Computing and Creative Practices",
+        "code": "L0006"
+    },
+    {
+        "name": "L0007 (32)",
+        "id": "Computing and Creative Practices",
+        "code": "L0007"
+    },
+    {
+        "name": "L0008 (8)",
+        "id": "Computing and Creative Practices",
+        "code": "L0008"
+    },
+    {
+        "name": "L0013A (16)",
+        "id": "Computing and Creative Practices",
+        "code": "L0013A"
+    },
+    {
+        "name": "L0013B (16)",
+        "id": "Computing and Creative Practices",
+        "code": "L0013B"
+    },
+    {
+        "name": "L0021 (1)",
+        "id": "Computing and Creative Practices",
+        "code": "L0021"
+    },
+    {
+        "name": "L0024 (1)",
+        "id": "Computing and Creative Practices",
+        "code": "L0024"
+    },
+    {
+        "name": "L0025 (16)",
+        "id": "Computing and Creative Practices",
+        "code": "L0025"
+    },
+    {
+        "name": "L0030 (1)",
+        "id": "Computing and Creative Practices",
+        "code": "L0030"
+    },
+    {
+        "name": "L0031 (1)",
+        "id": "Computing and Creative Practices",
+        "code": "L0031"
+    },
+    {
+        "name": "L0032 (16)",
+        "id": "Computing and Creative Practices",
+        "code": "L0032"
+    },
+    {
+        "name": "L0043 (16)",
+        "id": "Computing and Creative Practices",
+        "code": "L0043"
+    },
+    {
+        "name": "L0045 (8)",
+        "id": "Computing and Creative Practices",
+        "code": "L0045"
+    },
+    {
+        "name": "M0006 (32)",
+        "id": "Engineering and Design",
+        "code": "M0006"
+    },
+    {
+        "name": "M0008 (32)",
+        "id": "Engineering and Design",
+        "code": "M0008"
+    },
+    {
+        "name": "M0021 (32)",
+        "id": "Engineering and Design",
+        "code": "M0021"
+    },
+    {
+        "name": "M1003 (32)",
+        "id": "Engineering and Design",
+        "code": "M1003"
+    },
+    {
+        "name": "M1011 (32)",
+        "id": "Engineering and Design",
+        "code": "M1011"
+    },
+    {
+        "name": "M1013 (32)",
+        "id": "Engineering and Design",
+        "code": "M1013"
+    },
+    {
+        "name": "M2002 (24)",
+        "id": "Engineering and Design",
+        "code": "M2002"
+    },
+    {
+        "name": "M2010 (22)",
+        "id": "Engineering and Design",
+        "code": "M2010"
+    },
+    {
+        "name": "Offsite (100)",
+        "id": "Life Sciences",
+        "code": "Offsite"
+    },
+    {
+        "name": "On Line (1000)",
+        "id": "Mech. and Electronic Eng.",
+        "code": "On%20Line"
+    },
+    {
+        "name": "P0005 (1000)",
+        "id": "Knocknarea Arena",
+        "code": "P0005"
+    },
+    {
+        "name": "P1001 (20)",
+        "id": "Computing and Creative Practices",
+        "code": "P1001"
+    },
+    {
+        "name": "P1006 (20)",
+        "id": "Knocknarea Arena",
+        "code": "P1006"
+    },
+    {
+        "name": "P1010 (20)",
+        "id": "Knocknarea Arena",
+        "code": "P1010"
+    },
+    {
+        "name": "Pending (100)",
+        "id": "Unknown",
+        "code": "Pending"
+    },
+    {
+        "name": "Pending B/D S2 (100)",
+        "id": "Unknown",
+        "code": "Pending%20B%2FD%20S2"
+    },
+    {
+        "name": "Pending S2 (100)",
+        "id": "Unknown",
+        "code": "Pending%20S2"
+    },
+    {
+        "name": "Pending Sci (100)",
+        "id": "SCIENCE",
+        "code": "Pending%20Sci"
+    },
+    {
+        "name": "S1001 (16)",
+        "id": "Engineering and Design",
+        "code": "S1001"
+    },
+    {
+        "name": "S1101-4 (1)",
+        "id": "Business and Social Sciences",
+        "code": "S1101%2D4"
+    },
+    {
+        "name": "S1101-5 (1)",
+        "id": "Business and Social Sciences",
+        "code": "S1101%2D5"
+    },
+    {
+        "name": "S1101-6 (1)",
+        "id": "Business and Social Sciences",
+        "code": "S1101%2D6"
+    },
+    {
+        "name": "S1110-7 (1)",
+        "id": "Business and Social Sciences",
+        "code": "S1110%2D7"
+    },
+    {
+        "name": "S1110-8 (1)",
+        "id": "Social Sciences",
+        "code": "S1110%2D8"
+    },
+    {
+        "name": "S1110-9 (1)",
+        "id": "Business and Social Sciences",
+        "code": "S1110%2D9"
+    },
+    {
+        "name": "SWIM POOL (10000)",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SWIM%20POOL"
+    },
+    {
+        "name": "Student Services Centre (10000)",
+        "id": "Unknown",
+        "code": "Student%20Services%20Centre"
+    }
+]

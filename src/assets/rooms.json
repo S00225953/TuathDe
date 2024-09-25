@@ -1,0 +1,1027 @@
+[
+    {
+        "name": "A0004 - Tiered Lecture Theatre (132) (132)",
+        "id": "Block A",
+        "code": "A0004"
+    },
+    {
+        "name": "A0005 - Tiered Lecture Theatre (132) (132)",
+        "id": "Block A",
+        "code": "A0005"
+    },
+    {
+        "name": "A0006 - Tiered Lecture Theatre (152) (152)",
+        "id": "Block A",
+        "code": "A0006"
+    },
+    {
+        "name": "A2007 Boardroom (40)",
+        "id": "Unknown",
+        "code": "A2007"
+    },
+    {
+        "name": "AR1003 - Architecture Room (32)",
+        "id": "Block 8",
+        "code": "AR10003"
+    },
+    {
+        "name": "AR1006 - Workshop (20)",
+        "id": "Block 8",
+        "code": "AR1005"
+    },
+    {
+        "name": "AR2001 - Architecture Studio Y2 (32)",
+        "id": "Block 8",
+        "code": "AR2001"
+    },
+    {
+        "name": "AR2003 - IAD Studio Y4 (40)",
+        "id": "Block 8",
+        "code": "AR2002"
+    },
+    {
+        "name": "AR2005 - IAD Studio Y3 (48)",
+        "id": "Block 8",
+        "code": "AR2005"
+    },
+    {
+        "name": "AR2008 - Architecture Studio Y1 (32)",
+        "id": "Block 8",
+        "code": "AR2003"
+    },
+    {
+        "name": "AR2010 - Architecture Studio Y4 (32)",
+        "id": "Block 8",
+        "code": "AR2011"
+    },
+    {
+        "name": "AR2015 - Architecture Studio Y3 (32)",
+        "id": "Block 8",
+        "code": "AR2006"
+    },
+    {
+        "name": "AR2016 - Comms Room (1)",
+        "id": "Block 8",
+        "code": "AR2012"
+    },
+    {
+        "name": "AR2017 - Plotting Room (1)",
+        "id": "Block 8",
+        "code": "AR2013"
+    },
+    {
+        "name": "AR2018 - PC Lab (30) (30)",
+        "id": "Block 8",
+        "code": "AR2014"
+    },
+    {
+        "name": "B1041 - Computer Lab (16) - UNAVAILABLE (32)",
+        "id": "Block B",
+        "code": "B1041"
+    },
+    {
+        "name": "B1042 - Computer Lab (30) (30)",
+        "id": "Block B",
+        "code": "B1042"
+    },
+    {
+        "name": "B1043 - Computer Lab - Computer Networking (24) (24)",
+        "id": "Block B",
+        "code": "B1043"
+    },
+    {
+        "name": "B1050 - Computer Systems Laboratory (32) (32)",
+        "id": "Block B",
+        "code": "B1050"
+    },
+    {
+        "name": "B1051 A - Performing Arts Studio Y2 (10)",
+        "id": "Unknown",
+        "code": "B1051%20A"
+    },
+    {
+        "name": "B1051 B - Performing Arts Studio Y3 (10)",
+        "id": "Unknown",
+        "code": "B1051%20B"
+    },
+    {
+        "name": "B1051 C - Performing Arts Studio Y4 (10)",
+        "id": "Unknown",
+        "code": "B1051%20C"
+    },
+    {
+        "name": "B1058 - Tiered Classroom (58) (58)",
+        "id": "Block B",
+        "code": "B1058"
+    },
+    {
+        "name": "B1080 - Flat Classroom (40) (40)",
+        "id": "Block B",
+        "code": "B1080"
+    },
+    {
+        "name": "B1081 - Flat Classroom (40) (40)",
+        "id": "Block B",
+        "code": "B1081"
+    },
+    {
+        "name": "B1082 - Flat Classroom (34) - B AND SS (34)",
+        "id": "Block B",
+        "code": "B1082"
+    },
+    {
+        "name": "B1086 - Flat classroom (30) -(SS Room with NC) (30)",
+        "id": "Block B",
+        "code": "B1086"
+    },
+    {
+        "name": "B1094 - Aurivo Auditorium (280) (280)",
+        "id": "Block B",
+        "code": "B1094"
+    },
+    {
+        "name": "B1123 - Black Box Performance Space (30) (30)",
+        "id": "Block B",
+        "code": "B1123"
+    },
+    {
+        "name": "B1201 - Flat classroom (36) (36)",
+        "id": "Block B",
+        "code": "B1201"
+    },
+    {
+        "name": "B1202 - Flat classroom (32) (32)",
+        "id": "Block B",
+        "code": "B1202"
+    },
+    {
+        "name": "B2001 - Health AND Safety Lab (40) (40)",
+        "id": "Block B",
+        "code": "B2001"
+    },
+    {
+        "name": "B2002 - Tiered Classroom (44) (44)",
+        "id": "Block B",
+        "code": "B2002"
+    },
+    {
+        "name": "B2004 - Exercise Laboratory (32) (32)",
+        "id": "Block B",
+        "code": "B2004"
+    },
+    {
+        "name": "B2006 - Health Science and Physiology lab (15) (15)",
+        "id": "Block B",
+        "code": "B2006"
+    },
+    {
+        "name": "B2007 - Science Laboratory - Chemistry (32) (32)",
+        "id": "Block B",
+        "code": "B2007"
+    },
+    {
+        "name": "B2008 - Tiered Lecture Theatre (30) (30)",
+        "id": "Block B",
+        "code": "B2008"
+    },
+    {
+        "name": "B2009 - Tiered Lecture Theatre (30) (30)",
+        "id": "Block B",
+        "code": "B2009"
+    },
+    {
+        "name": "B2029 - Science Laboratory/Clean Room (8) (8)",
+        "id": "Block B",
+        "code": "B2029"
+    },
+    {
+        "name": "B2031-  PBL Room HP4/SA4 (16) - UNAVAILABLE (24)",
+        "id": "Block B",
+        "code": "B2031"
+    },
+    {
+        "name": "B2043 - Computer Laboratory (18) (18)",
+        "id": "Block B",
+        "code": "B2043"
+    },
+    {
+        "name": "B2045 - Tiered Classroom (60) (60)",
+        "id": "Block B",
+        "code": "B2045"
+    },
+    {
+        "name": "B2046 - Computer Laboratory (30) (30)",
+        "id": "Block B",
+        "code": "B2046"
+    },
+    {
+        "name": "B2051 - Tiered classroom - (40) (40)",
+        "id": "Block B",
+        "code": "B2051"
+    },
+    {
+        "name": "B2052 - Science Research Laboratory (8) (8)",
+        "id": "Block B",
+        "code": "B2052"
+    },
+    {
+        "name": "B2061- Science Lab (Food Modules Only) (24)",
+        "id": "Unknown",
+        "code": "B2061"
+    },
+    {
+        "name": "B2062- Science Lab (4)",
+        "id": "Unknown",
+        "code": "B2062"
+    },
+    {
+        "name": "B2080 - Science Laboratory - Microbiology (28) (28)",
+        "id": "Block B",
+        "code": "B2080"
+    },
+    {
+        "name": "B2081 - Science Laboratory - Environmental 1 (32) (32)",
+        "id": "Block B",
+        "code": "B2081"
+    },
+    {
+        "name": "B2082 - Science Laboratory - Instrumentation (24) (24)",
+        "id": "Block B",
+        "code": "B2082"
+    },
+    {
+        "name": "B2083 - Science Laboratory - Chemistry (32) (32)",
+        "id": "Block B",
+        "code": "B2083"
+    },
+    {
+        "name": "B2084 - Science Laboratory - Chemistry (32) (32)",
+        "id": "Block B",
+        "code": "B2084"
+    },
+    {
+        "name": "B2085- Science Laboratory - Physics (32) (32)",
+        "id": "Block B",
+        "code": "B2085"
+    },
+    {
+        "name": "B2100 - On Line Delivery Booth No 1 (1)",
+        "id": "Block B",
+        "code": "B2100%281%29"
+    },
+    {
+        "name": "B2100 - On Line Delivery Booth No 2 (1)",
+        "id": "Block B",
+        "code": "B2100%282%29"
+    },
+    {
+        "name": "B2100 - On Line Delivery Booth No 3 (1)",
+        "id": "Block B",
+        "code": "B2100%283%29"
+    },
+    {
+        "name": "B2113 - Science Laboratory - Archaeology (32) (32)",
+        "id": "Block B",
+        "code": "B2113"
+    },
+    {
+        "name": "B2201 - Environmental Research Lab (10) (10)",
+        "id": "Block B",
+        "code": "B2201"
+    },
+    {
+        "name": "B2202 - Molecular biology Lab (24) (24)",
+        "id": "Block B",
+        "code": "B2202"
+    },
+    {
+        "name": "B2220 - Cell Culture Lab (20) (20)",
+        "id": "Block B",
+        "code": "B2220"
+    },
+    {
+        "name": "B2221 - Protein Purification Lab (20) (20)",
+        "id": "Block B",
+        "code": "B2221"
+    },
+    {
+        "name": "B2222 - Applied Research Lab (10) (10)",
+        "id": "Block B",
+        "code": "B2222"
+    },
+    {
+        "name": "B2223 - Environmental Research Lab (6) (6)",
+        "id": "Block B",
+        "code": "B2223"
+    },
+    {
+        "name": "B3201 - Forensic Science Lab (24) (24)",
+        "id": "Block B",
+        "code": "B3201"
+    },
+    {
+        "name": "B3202 - Environmental Science (40) (40)",
+        "id": "Block B",
+        "code": "B3202"
+    },
+    {
+        "name": "B3203 - Advanced Instrumentation Lab (16) (16)",
+        "id": "Block B",
+        "code": "B3203"
+    },
+    {
+        "name": "B3220 - Science Foundation Lab (80) (80)",
+        "id": "Block B",
+        "code": "B3220"
+    },
+    {
+        "name": "B3224 - Microscopy Laboratory (4) (4)",
+        "id": "Block B",
+        "code": "B3224"
+    },
+    {
+        "name": "C1001 - Computer  Laboratory (24) (24)",
+        "id": "Block C",
+        "code": "C1001"
+    },
+    {
+        "name": "C1002 - Computer Laboratory (22) (22)",
+        "id": "Block C",
+        "code": "C1002"
+    },
+    {
+        "name": "C1004 - Tiered Classroom (80) (80)",
+        "id": "Block C",
+        "code": "C1004"
+    },
+    {
+        "name": "C1005 - Flat Classroom (40) (40)",
+        "id": "Block C",
+        "code": "C1005"
+    },
+    {
+        "name": "C1006 - Tiered Classroom (67) (67)",
+        "id": "Block C",
+        "code": "C1006"
+    },
+    {
+        "name": "C2001 - Ecology Science Laboratory (32) (32)",
+        "id": "Block C",
+        "code": "C2001"
+    },
+    {
+        "name": "C2004 - Tiered Classroom (60) (60)",
+        "id": "Block C",
+        "code": "C2004"
+    },
+    {
+        "name": "Clayton (40)",
+        "id": "Unknown",
+        "code": "Clayton"
+    },
+    {
+        "name": "D1001 - Tiered Classroom (62) (62)",
+        "id": "Block D",
+        "code": "D1001"
+    },
+    {
+        "name": "D1002 - Classroom (48) (48)",
+        "id": "Block D",
+        "code": "D1002"
+    },
+    {
+        "name": "D1004 - Flat Classroom (45) (45)",
+        "id": "Block D",
+        "code": "D1004"
+    },
+    {
+        "name": "D1010 - Meeting Room (10) (10)",
+        "id": "Unknown",
+        "code": "D1010"
+    },
+    {
+        "name": "D1012 - Flat Classroom (38) (38)",
+        "id": "Block D",
+        "code": "D1012"
+    },
+    {
+        "name": "D1018 - ECCE Classroom (20) (20)",
+        "id": "Block D",
+        "code": "D1018"
+    },
+    {
+        "name": "D1021 - Meeting Room (16) (16)",
+        "id": "Unknown",
+        "code": "D1021"
+    },
+    {
+        "name": "D1024 - Flat Classroom (40) (40)",
+        "id": "Block D",
+        "code": "D1024"
+    },
+    {
+        "name": "D1025 - Tiered Classroom (60) (60)",
+        "id": "Block D",
+        "code": "D1025"
+    },
+    {
+        "name": "D1027 - Tiered Classroom (60) (60)",
+        "id": "Block D",
+        "code": "D1027"
+    },
+    {
+        "name": "D1031 - Tiered Classroom (70) (70)",
+        "id": "Block D",
+        "code": "D1031"
+    },
+    {
+        "name": "D1032 - ECCE Skills Lab  (20) (20)",
+        "id": "Block D",
+        "code": "D1032"
+    },
+    {
+        "name": "D2005 - Creative Studies/Arts Room (16) (16)",
+        "id": "Block D",
+        "code": "D2005"
+    },
+    {
+        "name": "D2007 - Creative Studies/Arts Room (16) (16)",
+        "id": "Block D",
+        "code": "D2007"
+    },
+    {
+        "name": "D2010 - Meeting Room (10) (10)",
+        "id": "Unknown",
+        "code": "D2010"
+    },
+    {
+        "name": "D2013 - Tiered Classroom (70) (70)",
+        "id": "Block D",
+        "code": "D2013"
+    },
+    {
+        "name": "D2014 - Meeting Room (8) (8)",
+        "id": "Unknown",
+        "code": "D2014"
+    },
+    {
+        "name": "D2017 - Tiered Classroom - (65) (65)",
+        "id": "Block D",
+        "code": "D2017"
+    },
+    {
+        "name": "D2021 - Tiered Classroom (66) (66)",
+        "id": "Block D",
+        "code": "D2021"
+    },
+    {
+        "name": "D2022 - Flat Classroom (48) (48)",
+        "id": "Block D",
+        "code": "D2022"
+    },
+    {
+        "name": "D2033 - Computer Laboratory (24) (24)",
+        "id": "Block D",
+        "code": "D2033"
+    },
+    {
+        "name": "D2034 - Computer Laboratory (12) (12)",
+        "id": "Block D",
+        "code": "D2034"
+    },
+    {
+        "name": "D2036 - Computer Laboratory (32) (32)",
+        "id": "Block D",
+        "code": "D2036"
+    },
+    {
+        "name": "D2037 - Computer Laboratory (36) (36)",
+        "id": "Block D",
+        "code": "D2037"
+    },
+    {
+        "name": "D2038 - Computer Laboratory (32) (32)",
+        "id": "Block D",
+        "code": "D2038"
+    },
+    {
+        "name": "D2039 - Computer Laboratory (32) (32)",
+        "id": "Block D",
+        "code": "D2039"
+    },
+    {
+        "name": "E0008 - Water Laboratory (16) (16)",
+        "id": "Block E",
+        "code": "E0008"
+    },
+    {
+        "name": "E0009 - Hydraulics Laboratory (16) (16)",
+        "id": "Block E",
+        "code": "E0009"
+    },
+    {
+        "name": "E0010 - Research Space (12)",
+        "id": "Block E",
+        "code": "E0010"
+    },
+    {
+        "name": "E0011 - Tiered Classroom (99) (99)",
+        "id": "Block E",
+        "code": "E0011"
+    },
+    {
+        "name": "E0017 - Tiered Classroom (106) (106)",
+        "id": "Block E",
+        "code": "E0017"
+    },
+    {
+        "name": "E0028 - Computer Laboratory (32) (32)",
+        "id": "Block E",
+        "code": "E0028"
+    },
+    {
+        "name": "E0029 - Computer Laboratory (32) (32)",
+        "id": "Block E",
+        "code": "E0029"
+    },
+    {
+        "name": "E0030 - Computer Laboratory (32) (32)",
+        "id": "Block E",
+        "code": "E0030"
+    },
+    {
+        "name": "E0031 - Computer Laboratory (32) (32)",
+        "id": "Block E",
+        "code": "E0031"
+    },
+    {
+        "name": "E0032 - Computer Laboratory (32) (32)",
+        "id": "Block E",
+        "code": "E0032"
+    },
+    {
+        "name": "E1006 - Flat Classroom (32) (48)",
+        "id": "Block E",
+        "code": "E1006"
+    },
+    {
+        "name": "E1007 - Flat Classroom (32) (48)",
+        "id": "Block E",
+        "code": "E1007"
+    },
+    {
+        "name": "E1008 -  Flat Classroom (32) (48)",
+        "id": "Block E",
+        "code": "E1008"
+    },
+    {
+        "name": "E1009 - Fab Lab (24) (24)",
+        "id": "Block E",
+        "code": "E1009"
+    },
+    {
+        "name": "E1010 - MAC Lab (30) (30)",
+        "id": "Block E",
+        "code": "E1010"
+    },
+    {
+        "name": "E1011 - Plotting Room (15)",
+        "id": "Unknown",
+        "code": "E1011"
+    },
+    {
+        "name": "E1012 - Meeting Room (15) (15)",
+        "id": "Block E",
+        "code": "E1012"
+    },
+    {
+        "name": "E1014 - Engineering Science Laboratory (16) (16)",
+        "id": "Block E",
+        "code": "E1014"
+    },
+    {
+        "name": "E1016 - Materials Testing Laboratory (16) (16)",
+        "id": "Block E",
+        "code": "E1016"
+    },
+    {
+        "name": "E1017 - Flat Classroom - Mechanical Engineering 3 (32) (32)",
+        "id": "Block E",
+        "code": "E1017"
+    },
+    {
+        "name": "E1018 - Flat Classroom (32) (32)",
+        "id": "Block E",
+        "code": "E1018"
+    },
+    {
+        "name": "E1019 - Flat Classroom - Mechanical Engineering 4 (32) (32)",
+        "id": "Block E",
+        "code": "E1019"
+    },
+    {
+        "name": "E2003 - Electronics Laboratory (16) (16)",
+        "id": "Block E",
+        "code": "E2003"
+    },
+    {
+        "name": "E2004 - Electronics Laboratory (32) (32)",
+        "id": "Block E",
+        "code": "E2004"
+    },
+    {
+        "name": "E2007 - Electronics - Control AND Instrumentation (16) (16)",
+        "id": "Block E",
+        "code": "E2007"
+    },
+    {
+        "name": "E2008 - Mechatronics Project Laboratory/Classroom (20) (20)",
+        "id": "Block E",
+        "code": "E2008"
+    },
+    {
+        "name": "E2009 -  Drawing Lab/Classroom (31) IAD (31)",
+        "id": "Block M",
+        "code": "E2009"
+    },
+    {
+        "name": "E2021 - Advanced Automation Control (16) (16)",
+        "id": "Block E",
+        "code": "E2021"
+    },
+    {
+        "name": "E2022 - Pneumatics and Hydraulics Laboratory (16) (16)",
+        "id": "Block E",
+        "code": "E2022"
+    },
+    {
+        "name": "F0001A - Toolroom A (16) (16)",
+        "id": "Block F",
+        "code": "F0001A"
+    },
+    {
+        "name": "F0001B - Toolroom B (16) (16)",
+        "id": "Block F",
+        "code": "F0001B"
+    },
+    {
+        "name": "F0005 - Classroom (Tiered) (35) (35)",
+        "id": "Block F",
+        "code": "F0005"
+    },
+    {
+        "name": "F0006 - Structures Laboratory (20) (20)",
+        "id": "Block F",
+        "code": "F0006"
+    },
+    {
+        "name": "F0009 - Drawing Lab/Flat Classroom - (18) (18)",
+        "id": "Block F",
+        "code": "F0009"
+    },
+    {
+        "name": "F0010 - Flat Classroom (32) (32)",
+        "id": "Block F",
+        "code": "F0010"
+    },
+    {
+        "name": "F0011 - Flat Classroom (32) (32)",
+        "id": "Block F",
+        "code": "F0011"
+    },
+    {
+        "name": "F0012 - Flat Classroom w/Fixed Seating (38) (38)",
+        "id": "Block F",
+        "code": "F0012"
+    },
+    {
+        "name": "F0013 - Computer laboratory Toolmaking AND ME (16) (16)",
+        "id": "Block F",
+        "code": "F0013"
+    },
+    {
+        "name": "F0014 - Flat classroom (30) (30)",
+        "id": "Block F",
+        "code": "F0014"
+    },
+    {
+        "name": "F0023A - General Engineering Workshop A (16) (16)",
+        "id": "Block F",
+        "code": "F0023A"
+    },
+    {
+        "name": "F0023B - General Engineering Workshop B (16) (16)",
+        "id": "Block F",
+        "code": "F0023B"
+    },
+    {
+        "name": "F1005 - RIM 21 Lab (16)",
+        "id": "Block F",
+        "code": "F1005"
+    },
+    {
+        "name": "F1006 - CIM Computer Laboratory (16) (16)",
+        "id": "Block F",
+        "code": "F1006"
+    },
+    {
+        "name": "F1009 - Flat Classroom (32) (32)",
+        "id": "Block F",
+        "code": "F1009"
+    },
+    {
+        "name": "F1012 - PLC/Machine Lab - Apprenticeship (32)",
+        "id": "Block F",
+        "code": "F1012"
+    },
+    {
+        "name": "F1015 - Electrical Workshop (12)",
+        "id": "Block F",
+        "code": "F1015"
+    },
+    {
+        "name": "F1017 - Flat Classroom (24) (24)",
+        "id": "Block F",
+        "code": "F1017"
+    },
+    {
+        "name": "F1020 - Flat Classroom (32) (32)",
+        "id": "Block F",
+        "code": "F1020"
+    },
+    {
+        "name": "G1003 - Studio -IA Y1 (16)",
+        "id": "Unknown",
+        "code": "G1003"
+    },
+    {
+        "name": "G1030 - Flat Classroom (32) (32)",
+        "id": "Unknown",
+        "code": "G1030"
+    },
+    {
+        "name": "H1001 - Hume Hall (250) (250)",
+        "id": "Unknown",
+        "code": "H1001"
+    },
+    {
+        "name": "K0001 - Creative Design Studio (12)",
+        "id": "Block K",
+        "code": "K0001"
+    },
+    {
+        "name": "K0002 - Creative Design Studio (12)",
+        "id": "Block K",
+        "code": "K0002"
+    },
+    {
+        "name": "K0003 - Creative Design Studio (12)",
+        "id": "Block K",
+        "code": "K0003"
+    },
+    {
+        "name": "K0007 - Fine Art Studio Y1 (16)",
+        "id": "Unknown",
+        "code": "K0007"
+    },
+    {
+        "name": "K0011 - Studio - Art Y2 (12)",
+        "id": "Block K",
+        "code": "K0011"
+    },
+    {
+        "name": "K0012 - Studio - Art Y3 (14)",
+        "id": "Block K",
+        "code": "K0012"
+    },
+    {
+        "name": "K0013- Studio - Art Y4 (12)",
+        "id": "Block K",
+        "code": "K0013"
+    },
+    {
+        "name": "K0015 - Woodwork/Ceramics/Model-Making (12)",
+        "id": "Block K",
+        "code": "K0015"
+    },
+    {
+        "name": "K0022 - Seminar/Print Room (12)",
+        "id": "Block K",
+        "code": "K0022"
+    },
+    {
+        "name": "K0028 - Computer Laboratory (PC) (32)",
+        "id": "Block K",
+        "code": "K0028"
+    },
+    {
+        "name": "K0032 - Seminar/Music AND Voice Room (32)",
+        "id": "Block K",
+        "code": "K0032"
+    },
+    {
+        "name": "L0001 - Design Studio - Y1 AND Y2 (12) (32)",
+        "id": "Block L",
+        "code": "L0001"
+    },
+    {
+        "name": "L0006 - Mac Lab/Blended (9) (9)",
+        "id": "Block K",
+        "code": "L0006"
+    },
+    {
+        "name": "L0007 - Studio (12) (32)",
+        "id": "Block L",
+        "code": "L0007"
+    },
+    {
+        "name": "L0008 - Print Room (8) (8)",
+        "id": "Block L",
+        "code": "L0008"
+    },
+    {
+        "name": "L0013 A - Print Studio/Blended (16) (16)",
+        "id": "Block L",
+        "code": "L0013A"
+    },
+    {
+        "name": "L0013 B - Fine Art Y4 Studio/Blended (16)",
+        "id": "Unknown",
+        "code": "L0013B"
+    },
+    {
+        "name": "L0021 - Screen Storage (1) (1)",
+        "id": "Block L",
+        "code": "L0021"
+    },
+    {
+        "name": "L0024 - Dark Room (1)",
+        "id": "Block L",
+        "code": "L0024"
+    },
+    {
+        "name": "L0025 - Ceramics Studio/Blended (8) (16)",
+        "id": "Block L",
+        "code": "L0025"
+    },
+    {
+        "name": "L0030 - Photo Dark Room (1) (1)",
+        "id": "Block L",
+        "code": "L0030"
+    },
+    {
+        "name": "L0031 - Developing Room (1) (1)",
+        "id": "Block L",
+        "code": "L0031"
+    },
+    {
+        "name": "L0032 - Fine Art Studio  (8) (16)",
+        "id": "Block L",
+        "code": "L0032"
+    },
+    {
+        "name": "L0043 - Model Making Studio (8) (16)",
+        "id": "Block L",
+        "code": "L0043"
+    },
+    {
+        "name": "L0045 - Design Studio (8) (8)",
+        "id": "Block L",
+        "code": "L0045"
+    },
+    {
+        "name": "M0006 - Cabinet Making Workshop (32) (32)",
+        "id": "Block M",
+        "code": "M0006"
+    },
+    {
+        "name": "M0008 - C AND J Workshop (32) (32)",
+        "id": "Block M",
+        "code": "M0008"
+    },
+    {
+        "name": "M0021 - Electrical Workshop (32) (32)",
+        "id": "Block M",
+        "code": "M0021"
+    },
+    {
+        "name": "M1003 -  Flat Classroom (32) (32)",
+        "id": "Block E",
+        "code": "M1003"
+    },
+    {
+        "name": "M1011-M1012 - Electrical Workshop (32)",
+        "id": "Block M",
+        "code": "M1011"
+    },
+    {
+        "name": "M1013 - Apprentice Storage Room (32)",
+        "id": "Block M",
+        "code": "M1013"
+    },
+    {
+        "name": "M2002 - Electrical Lab (24) (24)",
+        "id": "Block M",
+        "code": "M2002"
+    },
+    {
+        "name": "M2010 - Computer Laboratory (22) (22)",
+        "id": "Block M",
+        "code": "M2010"
+    },
+    {
+        "name": "Offsite (100)",
+        "id": "Unknown",
+        "code": "Offsite"
+    },
+    {
+        "name": "On Line (1000)",
+        "id": "Unknown",
+        "code": "On%20Line"
+    },
+    {
+        "name": "P0005 - Knocknarea Arena Hall (1000)",
+        "id": "Block P",
+        "code": "P0005"
+    },
+    {
+        "name": "P1001 - Knocknarea Arena Studio (20)",
+        "id": "Block P",
+        "code": "P1001"
+    },
+    {
+        "name": "P1006 - KA Upstairs (20)",
+        "id": "Unknown",
+        "code": "P1006"
+    },
+    {
+        "name": "P1010 - Knocknarea Arena Gym (20)",
+        "id": "Block P",
+        "code": "P1010"
+    },
+    {
+        "name": "Pending B/D Block (100)",
+        "id": "Unknown",
+        "code": "Pending"
+    },
+    {
+        "name": "Pending B/D Block Sem 2 (100)",
+        "id": "Unknown",
+        "code": "Pending%20B%2FD%20S2"
+    },
+    {
+        "name": "Pending Eng Sem 2 (100)",
+        "id": "Unknown",
+        "code": "Pending%20S2"
+    },
+    {
+        "name": "Pending/Sci Lab (100)",
+        "id": "Unknown",
+        "code": "Pending%20Sci"
+    },
+    {
+        "name": "S1001 - Civil Laboratory (16)",
+        "id": "Unknown",
+        "code": "S1001"
+    },
+    {
+        "name": "S1101 - Online Delivery Booth 4 (1)",
+        "id": "Block S",
+        "code": "S1101%2D4"
+    },
+    {
+        "name": "S1101 - Online Delivery Booth 5 (1)",
+        "id": "Block S",
+        "code": "S1101%2D5"
+    },
+    {
+        "name": "S1101 - Online Delivery Booth 6 (1)",
+        "id": "Block S",
+        "code": "S1101%2D6"
+    },
+    {
+        "name": "S1110 - Online Delivery Booth 7 (1)",
+        "id": "Block S",
+        "code": "S1110%2D7"
+    },
+    {
+        "name": "S1110 - Online Delivery Booth 8 (1)",
+        "id": "Block S",
+        "code": "S1110%2D8"
+    },
+    {
+        "name": "S1110 - Online Delivery Booth 9 (1)",
+        "id": "Block S",
+        "code": "S1110%2D9"
+    },
+    {
+        "name": "Student Services Centre (outside Hume Hall) (10000)",
+        "id": "Unknown",
+        "code": "Student%20Services%20Centre"
+    },
+    {
+        "name": "Swim Pool (10000)",
+        "id": "Off Site",
+        "code": "SWIM%20POOL"
+    }
+]

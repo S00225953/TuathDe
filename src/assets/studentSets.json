@@ -1,0 +1,3337 @@
+[
+    {
+        "name": " SG_ETRON_J07/P/Y3/1/(A) - B Eng in Electronics L7 - Y3 OL Non teaching allocations",
+        "id": "Computing and Creative Practices",
+        "code": "%20SG%5FETRON%5FJ07%2FP%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "#SPLUS323A6A - Bachelor of Science (Honours) in Human Nutrition   Y1 Group D",
+        "id": "Health and Nutritional Sciences",
+        "code": "%23SPLUS323A6A"
+    },
+    {
+        "name": "#SPLUS5EADFB - Master of Science in Sustainable Food Systems Y5",
+        "id": "Environmental Sciences",
+        "code": "%23SPLUS5EADFB"
+    },
+    {
+        "name": "#SPLUS5EADFE - Post Graduate Diploma in Sustainable Food Systems Y5",
+        "id": "Environmental Sciences",
+        "code": "%23SPLUS5EADFE"
+    },
+    {
+        "name": "#SPLUS836E96 - B.Ed (Hons) in Education in Early Education & Care L8 - Y2 NonTeaching",
+        "id": "Social Sciences",
+        "code": "%23SPLUS836E96"
+    },
+    {
+        "name": "#SPLUS84E27A - B.Sc in Advanced Wood & Sustainable Building Technology L7 - Y1 Group C",
+        "id": "Civil Eng. and Construction",
+        "code": "%23SPLUS84E27A"
+    },
+    {
+        "name": "#SPLUSC2A6C2 - Bachelor in Architecture (Hons) in Architecture - L8 - Y4",
+        "id": "#SPLUS9FFF3E",
+        "code": "%23SPLUSC2A6C2"
+    },
+    {
+        "name": "G_KNCLD_K08/P/Y4/1/(A) - BSc (Hons) Computer Networks and Cloud Infrastructure L8 Add-on - Y4 Online",
+        "id": "Computing and Creative Practices",
+        "code": "G%5FKNCLD%5FK08%2FP%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "MBS Post Graduate Supervision - MBS Research Supervision",
+        "id": "Marketing, Tourism and Sport",
+        "code": "MBS%20Post%20Graduate%20Supervision"
+    },
+    {
+        "name": "MOOC - Introduction to Lean Sigma Quality - MOOC - Introduction to Lean Sigma Quality",
+        "id": "Mech. and Electronic Eng.",
+        "code": "MOOC%20%2D%20Introduction%20to%20Lean%20Sigma%20Quality"
+    },
+    {
+        "name": "SG_AARTT_B07/F/Y1/1/(A) - BA in Fine Art L7 - Y1 - A",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAARTT%5FB07%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_AARTT_B07/F/Y2/1/(A) - BA in Fine Art L7 - Y2 - A",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAARTT%5FB07%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_AARTT_B07/F/Y3/1/(A) - BA in Fine Art L7 - Y3 - A",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAARTT%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_AARTT_B07/H08/F/NT - BA in Fine Art L7",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAARTT%5FB07%2FH08%2FF%2FNT"
+    },
+    {
+        "name": "SG_AARTT_H08/F/Y1/1/(A) - BA (Hons) in Fine Art L8 - Y1",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAARTT%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_AARTT_H08/F/Y2/1/(A) - BA (Hons) in Fine Art L8 - Y2",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAARTT%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_AARTT_H08/F/Y3/1/(A) - BA in Fine Art L8 - Y3 - A",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAARTT%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_AARTT_H08/F/Y4/1/(A) - BA (Hons) in Fine Art L8 - Yr 4",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAARTT%5FH08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_AARTT_K08/F/Y4/1/(A) - BA (Hons) in Fine Art L8 - Yr 4",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAARTT%5FK08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_APERA_B07/F/Y1/1/(A) - BA (Hons) Performing Arts L7 - Y1 - Group A",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAPERA%5FB07%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_APERA_B07/F/Y2/1/(A) - BA (Hons) Performing Arts L7 - Y2 - Group A (Acting)",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAPERA%5FB07%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_APERA_B07/F/Y3/1/(A) - BA Performing Arts L7 - Y3 - Group A (Acting)",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAPERA%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_APERF_H08/F/Y1/1/(A) - BA (Hons) Performing Arts L8 AND L7 - Y1 - Group A",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAPERF%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_APERF_H08/F/Y1/1/(B) - BA (Hons) Performing Arts L8 AND L7 - Y1 - Group B",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAPERF%5FH08%2FF%2FY1%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_APERF_H08/F/Y1/1/(NT) - BA (Hons) Performing Arts L8 - Y1 - A",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAPERF%5FH08%2FF%2FY1%2F1%2F%28NT%29"
+    },
+    {
+        "name": "SG_APERF_H08/F/Y2/1/(A) - BA (Hons) Performing Arts L8 - Y2 - A - Acting Strand",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAPERF%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_APERF_H08/F/Y2/1/(D) - BA (Hons) Performing Arts L8 - Y2 - D - Theatre Design Strand",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAPERF%5FH08%2FF%2FY2%2F1%2F%28D%29"
+    },
+    {
+        "name": "SG_APERF_H08/F/Y3/1/(A) - BA (Hons) Performing Arts L8 - Y3 - A - Acting Strand",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAPERF%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_APERF_H08/F/Y3/1/(C) - BA (Hons) Performing Arts L8 - Y3 - D - Theatre Design Strand",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAPERF%5FH08%2FF%2FY3%2F1%2F%28C%29"
+    },
+    {
+        "name": "SG_APERF_H08/F/Y4/1/(A) - BA (Hons) Performing Arts L8 - Y4 - A - Acting Strand",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAPERF%5FH08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_APERF_H08/F/Y4/1/(D) - BA (Hons) Performing Arts L8 - Y4 - D - Theatre Design Strand",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAPERF%5FH08%2FF%2FY4%2F1%2F%28D%29"
+    },
+    {
+        "name": "SG_APERT_B07/F/Y1/1/(B) - BA (Hons) Performing Arts L7 - Y1 - Group B",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAPERT%5FB07%2FF%2FY1%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_APERT_B07/F/Y2/1/(D) - BA (Hons) Performing Arts L7 - Y2 - Group D (Design)",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAPERT%5FB07%2FF%2FY2%2F1%2F%28D%29"
+    },
+    {
+        "name": "SG_APERT_B07/F/Y3/1/(D) - BA Performing Arts L7 - Y3 - Group D (Design)",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FAPERT%5FB07%2FF%2FY3%2F1%2F%28D%29"
+    },
+    {
+        "name": "SG_BACCO_H08/F/Y1/1/(A) - BA (Hons) Accounting L8 - Y1",
+        "id": "Business",
+        "code": "SG%5FBACCO%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BACCO_H08/F/Y2/1/(A) - BA (Hons) Accounting L8 - Y2",
+        "id": "Business",
+        "code": "SG%5FBACCO%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BACCO_H08/F/Y3/1/(A) - BA (Hons) Accounting L8 - Y3",
+        "id": "Business",
+        "code": "SG%5FBACCO%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BACCO_K08/F/Y4/1/(A) - Bachelor of Business (Hons) in Accounting Stream Level 8 Year 4 (Add on)",
+        "id": "Business",
+        "code": "SG%5FBACCO%5FK08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BADMN_B07/F/Y1/1 /A) - B Bus Business Administration L7 - Y1 (Ab Initio)",
+        "id": "Business",
+        "code": "SG%5FBADMN%5FB07%2FF%2FY1%2F1%20%2FA%29"
+    },
+    {
+        "name": "SG_BADMN_B07/F/Y2/1/(A) - B Bus Business Administration L7 - Y2 (Ab Initio)",
+        "id": "Business",
+        "code": "SG%5FBADMN%5FB07%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BADMN_B07/F/Y3/1/(A) - B Bus Business Administration L7 - Y3 (Ab Initio)",
+        "id": "Business",
+        "code": "SG%5FBADMN%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BAPPL_B07/F/Y1/1/(A) - Bachelor of Business in Applied Sport and Business Level 7 Year 1",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBAPPL%5FB07%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BAPPL_B07/F/Y2/1/(A) - Bachelor of Business in Apppied Sport and Business Level 7 Year 2",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBAPPL%5FB07%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BAPPL_B07/F/Y3/1/(A) - Bachelor of Business in Applied Sport and Business Level 7 Year 3",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBAPPL%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BBMTS_K08/F/Y4/6/(A) - Bachelor of Business (Hons) Level 8 Add On  - Y4 - Marketing",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBBMTS%5FK08%2FF%2FY4%2F6%2F%28A%29"
+    },
+    {
+        "name": "SG_BBUSI_C06/F/Y1/1/(A) - Higher Certificate n Business Studies L6 - Yr 1",
+        "id": "Business",
+        "code": "SG%5FBBUSI%5FC06%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BBUSI_C06/F/Y2/1/(A) - Higher Certificate in Business Studies L6 - Yr 2",
+        "id": "Business",
+        "code": "SG%5FBBUSI%5FC06%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BBUSI_H08/F/Y1/1/(A) - Bachelor of Business (Hons) L8 - Y1 - Ab-Initio",
+        "id": "Business",
+        "code": "SG%5FBBUSI%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BBUSI_H08/F/Y2/1/(A) - Bachelor of Business (Hons)  L8 - Y2 - Ab-Initio",
+        "id": "Business",
+        "code": "SG%5FBBUSI%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BBUSI_H08/F/Y3/1/(A) - Bachelor of Business (Hons) L8 - Y3 - Ab-Initio",
+        "id": "Business",
+        "code": "SG%5FBBUSI%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BBUSI_H08/F/Y4/1/(A) (FIN and INV) - Bachelor of Business (Hons) L8 - Y4 - Finance and Investment",
+        "id": "Business",
+        "code": "SG%5FBBUSI%5FH08%2FF%2FY4%2F1%2F%28A%29%20%28FIN%20and%20INV%29"
+    },
+    {
+        "name": "SG_BBUSI_H08/F/Y4/2//(A) (HRM) - Bachelor of Business (Hons) L8  - Y4 - HRM",
+        "id": "Business",
+        "code": "SG%5FBBUSI%5FH08%2FF%2FY4%2F2%2F%2F%28A%29%20%28HRM%29"
+    },
+    {
+        "name": "SG_BBUSI_H08/F/Y4/3/(A) (MARKETING) - Bachelor of Business (Hons) L8 - Y4 - Marketing",
+        "id": "Business",
+        "code": "SG%5FBBUSI%5FH08%2FF%2FY4%2F3%2F%28A%29%20%28MARKETING%29"
+    },
+    {
+        "name": "SG_BBUSO_C06/P/Y1//(A) - Higher Certificate in Business Studies Level 6 - Part-time",
+        "id": "Business",
+        "code": "SG%5FBBUSO%5FC06%2FP%2FY1%2F%2F%28A%29"
+    },
+    {
+        "name": "SG_BBUSO_C06/P/Y2//(A) - Higher Certificate in Business Studies Level 6 Y2 - Part-time",
+        "id": "Business",
+        "code": "SG%5FBBUSO%5FC06%2FP%2FY2%2F%2F%28A%29"
+    },
+    {
+        "name": "SG_BBUSS_B07/F/Y1/1/(A) - Bachelor of Business  L7  - Y1 - Ab-Initio",
+        "id": "Business",
+        "code": "SG%5FBBUSS%5FB07%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BBUSS_B07/F/Y2/1/(A) - Bachelor of Business  L7  - Y2 - Ab-Initio",
+        "id": "Business",
+        "code": "SG%5FBBUSS%5FB07%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BBUSS_B07/F/Y3/1/(A) - Bachelor of Business  L7  - Y3 - Ab-Initio",
+        "id": "Business",
+        "code": "SG%5FBBUSS%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BBUSS_K08/P/Y4/1/(A) - Bachelor of Business (Hons)  Level 8 - Part-time",
+        "id": "Business",
+        "code": "SG%5FBBUSS%5FK08%2FP%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BDIGI_S06/P/Y1/1/(A) - Level 6 Special Purpose Award in Digital Marketing Practice",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBDIGI%5FS06%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BFINA_H08/F/Y3/1/(A) - Bachelor of Business (Honours) in Finance AND Investment L8 Year 3",
+        "id": "Business",
+        "code": "SG%5FBFINA%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BFINA_H08/F/Y4/1/(A) - Bachelor of Business (Honours) in Finance AND Investment L8 Year 4",
+        "id": "Business",
+        "code": "SG%5FBFINA%5FH08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BFINV_K08/Y4/2/(B) - Bachelor of Business (Honours) in Finance and Investment Stream L8 (Add on)",
+        "id": "Business",
+        "code": "SG%5FBFINV%5FK08%2FY4%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_BGENE_K08/F/Y4/3/(C) - Bachelor of Business (Hons) Level 8 - Y4 - General - Add On",
+        "id": "Business",
+        "code": "SG%5FBGENE%5FK08%2FF%2FY4%2F3%2F%28C%29"
+    },
+    {
+        "name": "SG_BHRMS_K08/F/Y4/4/(D) - Bachelor of Business (Hons) Level 8  - Y4 - HRM Add On",
+        "id": "Business",
+        "code": "SG%5FBHRMS%5FK08%2FF%2FY4%2F4%2F%28D%29"
+    },
+    {
+        "name": "SG_BINSL_H08/P - B.A. (Hons) in Business in Insurance Practice (Life) L8 Year 1 + 2 - Non Teaching Allocations",
+        "id": "Business",
+        "code": "SG%5FBINSL%5FH08%2FP"
+    },
+    {
+        "name": "SG_BINSL_H08/P/Y1/1/(A) - B.A. (Hons) in Business in Insurance Practice (Life) L8 Year 1",
+        "id": "Business",
+        "code": "SG%5FBINSL%5FH08%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BINSL_H08/P/Y2/1/(A) - B.A. (Hons) in Business in Insurance Practice (Life) L8 Year 2",
+        "id": "Business",
+        "code": "SG%5FBINSL%5FH08%2FP%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BINSL_H08/P/Y3/1/(A) - B.A. (Hons) in Business in Insurance Practice (Life AND General) L8 Year 3",
+        "id": "Business",
+        "code": "SG%5FBINSL%5FH08%2FP%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BINSU_H08/P/Y1 - B.A. (Hons) in Business in Insurance Practice L8 Year 1 - Non Teaching Allocations",
+        "id": "Business",
+        "code": "SG%5FBINSU%5FH08%2FP%2FY1"
+    },
+    {
+        "name": "SG_BINSU_H08/P/Y1/1/((A) - B.A. (Hons) in Business in Insurance Practice A Y1 (Red Group)",
+        "id": "Business",
+        "code": "SG%5FBINSU%5FH08%2FP%2FY1%2F1%2F%28%28A%29"
+    },
+    {
+        "name": "SG_BINSU_H08/P/Y1/2/(B - B.A. (Hons) in Business in Insurance Practice B Y1 (Yellow Group)",
+        "id": "Business",
+        "code": "SG%5FBINSU%5FH08%2FP%2FY1%2F2%2F%28B"
+    },
+    {
+        "name": "SG_BINSU_H08/P/Y1/3(C) - B.A. (Hons) in Business in Insurance Practice L8 Year 1 Group C",
+        "id": "Business",
+        "code": "SG%5FBINSU%5FH08%2FP%2FY1%2F3%28C%29"
+    },
+    {
+        "name": "SG_BINSU_H08/P/Y2 - B.A. (Hons) in Business in Insurance Practice L8 Year 2 - Non Teaching Allocations",
+        "id": "Business",
+        "code": "SG%5FBINSU%5FH08%2FP%2FY2"
+    },
+    {
+        "name": "SG_BINSU_H08/P/Y2/1/(A) - B.A. (Hons) in Business in Insurance Practice A Y2 (Red Group)",
+        "id": "Business",
+        "code": "SG%5FBINSU%5FH08%2FP%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BINSU_H08/P/Y2/2/(B) - B.A. (Hons) in Business in Insurance Practice  B Y2 (Yellow Group)",
+        "id": "Business",
+        "code": "SG%5FBINSU%5FH08%2FP%2FY2%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_BINSU_H08/P/Y2/3/(C) - B.A. (Hons) in Business in Insurance Practice  C (Green Group)",
+        "id": "Business",
+        "code": "SG%5FBINSU%5FH08%2FP%2FY2%2F3%2F%28C%29"
+    },
+    {
+        "name": "SG_BINSU_H08/P/Y3 - B.A. (Hons) in Business in Insurance Practice L8 Year 3 - Non Teaching Allocations",
+        "id": "Business",
+        "code": "SG%5FBINSU%5FH08%2FP%2FY3"
+    },
+    {
+        "name": "SG_BINSU_H08/P/Y3/1/(A) - B.A. (Hons) in Business in Insurance Practice A Y3 (Red Group)",
+        "id": "Business",
+        "code": "SG%5FBINSU%5FH08%2FP%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BINSU_H08/P/Y3/2/(B) - B.A. (Hons) in Business in Insurance Practice  B Y3 (Yellow Group)",
+        "id": "Business",
+        "code": "SG%5FBINSU%5FH08%2FP%2FY3%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_BINSU_H08/P/Y3/3/(C) - B.A. (Hons) in Business in Insurance Practice  C Y3 (Green Group)",
+        "id": "Business",
+        "code": "SG%5FBINSU%5FH08%2FP%2FY3%2F3%2F%28C%29"
+    },
+    {
+        "name": "SG_BINTE_B07/F/Y1/1/(A) - B Bus in International Tourism & Event Management L7 - Y1",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBINTE%5FB07%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BINTE_B07/F/Y2/1/(A) - B Bus in International Tourism & Event Managment L7 Y2",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBINTE%5FB07%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BINTE_H08/F/Y1/1/(A) - B.Bus (Honours) in International Marketing and Languages Level 8 Year 1",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBINTE%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BINTE_H08/F/Y2/1/(A) - B.Bus (Honours) in International Marketing and Languages Level 8 Year 2",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBINTE%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BINTE_H08/F/Y3/1/(A) - B.Bus (Honours) in International Marketing and Languages Level 8 Year 3",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBINTE%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BINTE_H08/F/Y4/1/(A) - B.Bus (Honours) in International Marketing and Languages Level 8 Year 4",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBINTE%5FH08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BMAAP_J07/P/Y3/1/(A) - BBus in Management Applications L7 - Y3 - On Line",
+        "id": "Business",
+        "code": "SG%5FBMAAP%5FJ07%2FP%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BMARK_H08/F/Y1/1/(A) - Bachelor of Business (Hons) in Marketing Y1",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBMARK%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BMARK_H08/F/Y2/1/(A) - Bachelor of Business (Hons) in Marketing Y2",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBMARK%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BMARK_M09/F/Y5/1/(A - Master of Science  in Marketing L9 - Y5",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBMARK%5FM09%2FF%2FY5%2F1%2F%28A"
+    },
+    {
+        "name": "SG_BMARK_M09/F/Y5/1/(NT) - Master of Science  in Marketing L9 - Y5 - NT",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBMARK%5FM09%2FF%2FY5%2F1%2F%28NT%29"
+    },
+    {
+        "name": "SG_BMKTG_B07/F/Y1/1/(A) - Bachelor of Business in Marketing Y1",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBMKTG%5FB07%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BMKTG_B07/F/Y2/1/(A) - Bachelor of Business in Marketing Y2",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBMKTG%5FB07%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BPERS_S06/Y1/1/(A) - Certificate in Personal Effectiveness (Springboard)",
+        "id": "Business",
+        "code": "SG%5FBPERS%5FS06%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BSALE_B07/F/Y3/1/(A) - Bachelor of Business in Marketing and Sales L7 - Yr 3",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBSALE%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BSALE_N07/P/Y1/1/(A) - Certificate in Business in Sales & Customer Services for Insurance & Financial Products",
+        "id": "Business",
+        "code": "SG%5FBSALE%5FN07%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BSOCI_S06/P/Y1/1/(A) - Level 6 Special Purpose Award in Social Media Marketing",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBSOCI%5FS06%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BSPOR_H08/F/NT - SG_BSPOR_H08/F/Non Teaching",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBSPOR%5FH08%2FF%2FNT"
+    },
+    {
+        "name": "SG_BSPOR_H08/F/Y1/1/(A) - Bachelor of Business (Honours) in Sport and Business - Y1",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBSPOR%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BSPOR_H08/F/Y2/1/(A) - Bachelor of Business (Honours) in Sport and Business - Y2",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBSPOR%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BSPOR_H08/F/Y3/1/(A) - Bachelor of Business (Honours) in Sport and Business - Y3",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBSPOR%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BTEVM_H08/F/Y1/1/(A) - B Bus (Hons) in Tourism with Event Management L8 - Y1",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBTEVM%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BTOTR_B07/F/Y2/1/(A) - B Bus in Tourism with Event Management L8 - Y2",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBTOTR%5FB07%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BTOTR_H08/F/Y2/1/(A) - B Bus (Hons) in Tourism with Event Management L8 - Y2",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBTOTR%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BTOUR_B07/F/Y3/1/(A) - Bachelor of  Business  in Tourism with Event Management L7 - Y3",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBTOUR%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BTOUR_H08/F/Y3/1/(A) - B Bus (Hons) in Tourism with Event Management L8 - Y3",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBTOUR%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BTOUR_H08/F/Y4/1/(A) - B Bus (Hons) in Tourism with Event Management L8 - Y4",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FBTOUR%5FH08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_BTRAN_C06/P/Y1/1/(A) - Higher Certificate in Business in Transport Services",
+        "id": "Business",
+        "code": "SG%5FBTRAN%5FC06%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_CCEOL_C06/P/Y1/1/(A) - Higher Certificate in Science in Construction Economics (Online)",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FCCEOL%5FC06%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_CCONS_C06/F/Y1/1/(A) - Higher Certificate in Science in Construction Economics - Y1",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FCCONS%5FC06%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_CCONS_C06/F/Y2/1/(A) - Higher Certificate in Science in Construction Economics - Y2",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FCCONS%5FC06%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_CCONS_J07/P/Y1/1/(A) - BSc Construction Management L7 Online - Y1",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FCCONS%5FJ07%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_CCONS_J07/P/Y2/1 /A) - BSc Construction Management L7 Online - Y2",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FCCONS%5FJ07%2FP%2FY2%2F1%20%2FA%29"
+    },
+    {
+        "name": "SG_CCONS_K08/F/Y4/(NT - BSc (Hons) in Construction Project Management L8 - Y4 - NT",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FCCONS%5FK08%2FF%2FY4%2F%28NT"
+    },
+    {
+        "name": "SG_CCONS_K08/F/Y4/1/(A) - BSc (Hons) in Construction Project Management L8 - Y4 - A",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FCCONS%5FK08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_CCONS_K08/P/Y4/1/(A) - BSc (Hons) in Construction Project Management L8 - On Line Y2",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FCCONS%5FK08%2FP%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_CCONS_K08/P/Y4/1/(A)- OLL_Non Teaching Allocations - BSc (Hons) in Construction Project Management L8 - Non Teaching allocations",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FCCONS%5FK08%2FP%2FY4%2F1%2F%28A%29%2D%20OLL%5FNon%20Teaching%20Allocations"
+    },
+    {
+        "name": "SG_CCONS_K08/Y4/1/(A) - BSc (Hons) in Construction Project Management L8 - Y4  On Line Y1",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FCCONS%5FK08%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_DCRDS_B07/F/Y1/1(A) - BA Creative Design L7 - Y1 - A",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FDCRDS%5FB07%2FF%2FY1%2F1%28A%29"
+    },
+    {
+        "name": "SG_DCRDS_B07/F/Y2/1/(A) - BA Creative Design L7 - Y2 - A",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FDCRDS%5FB07%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_DCRDS_B07/F/Y3/1/(A) - BA Creative Design L7 - Y3 - A",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FDCRDS%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_DCRDS_H08/F/Y1/1/(A) - BA (Hons) Creative Design L8 - Y1 - A",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FDCRDS%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_DCRDS_H08/F/Y2/1/(A) - BA (Hons) Creative Design L8 - Y2 - A",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FDCRDS%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_DCRDS_H08/F/Y3/1/(A) - BA (Hons) Creative Design L8 - Y3 - A",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FDCRDS%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_DCRDS_H08/F/Y4/1/(A) - BA (Hons) Creative Design L8 - Y4",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FDCRDS%5FH08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_DIADD_K08/F/Y4/1/(A) - BA (Hons) in Interior Architecture AND Design Y4",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FDIADD%5FK08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_DINAD_H08/F/Y1/(A) - B.A. (Hons) in Interior Architecture & Design L8 Y1 Group A",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FDINAD%5FH08%2FF%2FY1%2F%28A%29"
+    },
+    {
+        "name": "SG_DINAD_H08/F/Y1/(B) - B.A. (Hons) in Interior Architecture & Design L8 Y1 Group B",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FDINAD%5FH08%2FF%2FY1%2F%28B%29"
+    },
+    {
+        "name": "SG_DINAD_H08/F/Y2/1/(A) - BA (Hons) in Interior Architecture AND Design L8 Y2",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FDINAD%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_DINAD_H08/F/Y3/1/(A) - BA (Hons) in Interior Architecture AND Design L8 Y3",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FDINAD%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EADVA_E08/P/Y1/(A) - Certificate in Advanced Lean Sigma Quality Level 8 On Line",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEADVA%5FE08%2FP%2FY1%2F%28A%29"
+    },
+    {
+        "name": "SG_EAUTI_N06/P/Y1/1(A) - Cert in Automation AND Instrumentation Level 6 On Line",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEAUTI%5FN06%2FP%2FY1%2F1%28A%29"
+    },
+    {
+        "name": "SG_EAUTM_N06/P/Y2/1/(A) - Higher Certificate in Automation & Electronics Level 6 Online",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FEAUTM%5FN06%2FP%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EAUTM_N06/P/Y2/1/(A) - Non Teaching - Cert in Engineering in Automation and Electronics Y1 Non Teaching Allocations",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FEAUTM%5FN06%2FP%2FY2%2F1%2F%28A%29%20%2D%20Non%20Teaching"
+    },
+    {
+        "name": "SG_EAUTO_E09/P/Y5/1/(A) - Certificate in Automotive Artificial Intelligence Level 9",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FEAUTO%5FE09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EAUTO_E09/P/Y5/1/(A) Non Teaching - Certificate in Automotive Artificial Intelligence Level 9 Non Teaching allocations",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FEAUTO%5FE09%2FP%2FY5%2F1%2F%28A%29%20Non%20Teaching"
+    },
+    {
+        "name": "SG_EBRID_N09/P/Y1 - Certificate in Engineering in Bridge Engineering",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FEBRID%5FN09%2FP%2FY1"
+    },
+    {
+        "name": "SG_ECARP_T/P/A4/1/(A) - Carpentry AND Joinery Phase 4 1A",
+        "id": "Apprenticeships",
+        "code": "SG%5FECARP%5FT%2FP%2FA4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ECARP_T/P/A4/2/(A) - Carpentry AND Joinery Phase 4 2A",
+        "id": "Apprenticeships",
+        "code": "SG%5FECARP%5FT%2FP%2FA4%2F2%2F%28A%29"
+    },
+    {
+        "name": "SG_ECARP_T/P/A4/2/(B) - Carpentry AND Joinery Phase 4 2B",
+        "id": "Apprenticeships",
+        "code": "SG%5FECARP%5FT%2FP%2FA4%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_ECARP_T/P/A4/3/(A) - Carpentry AND Joinery Phase 4 3A",
+        "id": "Apprenticeships",
+        "code": "SG%5FECARP%5FT%2FP%2FA4%2F3%2F%28A%29"
+    },
+    {
+        "name": "SG_ECARP_T/P/A4/3/(B) - Carpentry AND Joinery Phase 4 3B",
+        "id": "Apprenticeships",
+        "code": "SG%5FECARP%5FT%2FP%2FA4%2F3%2F%28B%29"
+    },
+    {
+        "name": "SG_ECARP_T/P/A6/1/(A) - Carpentry AND Joinery Phase 6 1A",
+        "id": "Apprenticeships",
+        "code": "SG%5FECARP%5FT%2FP%2FA6%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ECARP_T/P/A6/1/(B) - Carpentry AND Joinery Phase 6 1B",
+        "id": "Apprenticeships",
+        "code": "SG%5FECARP%5FT%2FP%2FA6%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_ECARP_T/P/A6/1/(C) - Carpentry AND Joinery Phase 6 1C",
+        "id": "Apprenticeships",
+        "code": "SG%5FECARP%5FT%2FP%2FA6%2F1%2F%28C%29"
+    },
+    {
+        "name": "SG_ECARP_T/P/A6/2/(A) - Carpentry AND Joinery Phase 6 2A",
+        "id": "Apprenticeships",
+        "code": "SG%5FECARP%5FT%2FP%2FA6%2F2%2F%28A%29"
+    },
+    {
+        "name": "SG_ECARP_T/P/A6/2/(B) - Carpentry AND Joinery Phase 6 2B",
+        "id": "Apprenticeships",
+        "code": "SG%5FECARP%5FT%2FP%2FA6%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_ECARP_T/P/A6/3/(A) - Carpentry AND Joinery Phase 6 3A",
+        "id": "Apprenticeships",
+        "code": "SG%5FECARP%5FT%2FP%2FA6%2F3%2F%28A%29"
+    },
+    {
+        "name": "SG_ECARP_T/P/A6/3/(B) - Carpentry AND Joinery Phase 6 3B",
+        "id": "Apprenticeships",
+        "code": "SG%5FECARP%5FT%2FP%2FA6%2F3%2F%28B%29"
+    },
+    {
+        "name": "SG_ECIIVL_K08/F/Y4/1/(A) - B Eng (Hons) in Civil Engineering L8 - Y4 - Add on",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FECIIVL%5FK08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ECIVI_C06/F/Y1/1/(E) - Higher Cert in Civil Engineering L6 - Y1",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FECIVI%5FC06%2FF%2FY1%2F1%2F%28E%29"
+    },
+    {
+        "name": "SG_ECIVI_C06/F/Y2/1/(A) - Higher Certificate in Civil Engineering L6 - Y2",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FECIVI%5FC06%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ECIVI_H08/F/Y1/1/(A) - B.Eng (Hons) in Civil Engineering L8 - Y1",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FECIVI%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ECIVI_H08/F/Y2/1/(A) - B.Eng (Hons) in Civil Engineering L8 - Y2",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FECIVI%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ECIVI_H08/F/Y3/1/(A) - B.Eng (Hons) in Civil Engineering L8 - Y3",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FECIVI%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ECIVI_H08/F/Y4/1/(A) - B.Eng (Hons) in Civil Engineering L8 - Y4",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FECIVI%5FH08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ECIVL_K08/F/Y5/1/(A) - B Eng (Hons) in Civil Engineering L8 - Y5- Add on",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FECIVL%5FK08%2FF%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ECOFT_O09/P/Y1/1/(A) - Post Graduate Diploma in Engineering in Connected Autonomous Vehicles L9 - Y1",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FECOFT%5FO09%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ECONN_M09/P/Y1/1/(NT) - Master of Engineering in Connected Autonomous Vehicles, Level 9 Year 1 Non Teaching Allocations",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FECONN%5FM09%2FP%2FY1%2F1%2F%28NT%29"
+    },
+    {
+        "name": "SG_ECONN_M09/P/Y2/1/(NT) - Master of Engineering in Connected Autonomous Vehicles, Level 9 Year 2 Non Teaching Allocations",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FECONN%5FM09%2FP%2FY2%2F1%2F%28NT%29"
+    },
+    {
+        "name": "SG_ECONN_M09/P/Y5/1/(A) - Master of Engineering in Connected Autonomous Vehicles L9 - Y1",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FECONN%5FM09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ECONN_M09/P/Y6/1/(A) - Master of Engineering in Connected Autonomous Vehicles L9 - Y2",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FECONN%5FM09%2FP%2FY6%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ECONN_M09/P/Y7/1/(A) - Master of Engineering in Connected Autonomous Vehicles L9 - Y3",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FECONN%5FM09%2FP%2FY7%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ECONN_O09/P/Y1/1/(A) - Post Graduate Diploma in Engineering in Connected Autonomous Vehicles L9 - Y1",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FECONN%5FO09%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ECONN_O09/P/Y2/1/(A) - Post Graduate Diploma in Engineering in Connected Autonomous Vehicles L9 - Y2",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FECONN%5FO09%2FP%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ECVIL_B07/F/Y1/1/(E) - B.Eng in Civil Engineering L7 - Y1",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FECVIL%5FB07%2FF%2FY1%2F1%2F%28E%29"
+    },
+    {
+        "name": "SG_ECVIL_B07/F/Y2/1/(A) - B Eng in Civil Engineering L7 - Y2 - A",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FECVIL%5FB07%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ECVIL_B07/F/Y3/1/(A) - B Eng in Civil Engineering L7 - Y3 - A",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FECVIL%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ECVIL_B07/F/Y3/1/(NT) - B Eng in Civil Engineering L7 - Y3 - NT",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FECVIL%5FB07%2FF%2FY3%2F1%2F%28NT%29"
+    },
+    {
+        "name": "SG_EDATA_J07/P/Y3/1/(A) - B Eng. In Data Centre Facilities Engineering Year 3 On Line",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEDATA%5FJ07%2FP%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EDATA_J07/P/Y3/1/(A) - Non Teaching - B Eng. In Data Centre Facilities Engineering Year 3 OL/ Non Teaching",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEDATA%5FJ07%2FP%2FY3%2F1%2F%28A%29%20%2D%20Non%20Teaching"
+    },
+    {
+        "name": "SG_EEARL_H08/F/Y1/1/(A) - B.Ed (Hons) in Education in Early Education AND Care L8 - Y1 A",
+        "id": "Social Sciences",
+        "code": "SG%5FEEARL%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EEARL_H08/F/Y1/2 /(B) - B.Ed (Hons) in Education in Early Education & Care L8 - Y1 B",
+        "id": "Social Sciences",
+        "code": "SG%5FEEARL%5FH08%2FF%2FY1%2F2%20%2F%28B%29"
+    },
+    {
+        "name": "SG_EEARL_H08/F/Y1/NT/(NT) - Z - B.Ed (Hons) in Education in Early Education AND Care Yr 1 - Non Teaching",
+        "id": "Social Sciences",
+        "code": "SG%5FEEARL%5FH08%2FF%2FY1%2FNT%2F%28NT%29"
+    },
+    {
+        "name": "SG_EEARL_H08/F/Y2/1/(A) - B.Ed (Hons) in Education in Early Education AND Care L8 - Y2 A",
+        "id": "Social Sciences",
+        "code": "SG%5FEEARL%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EEARL_H08/F/Y2/2/(B) - B.Ed (Hons) in Education in Early Education AND Care L8 - Y2 B",
+        "id": "Social Sciences",
+        "code": "SG%5FEEARL%5FH08%2FF%2FY2%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_EELCH_B07/P/Y1/1/(A) - Bachelor of Engineering in Electronic Engineering Level 7 (CHINA) - Y1",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FEELCH%5FB07%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EELCH_B07/P/Y2/1/(A) - Bachelor of Engineering in Electronic Engineering Level 7 (CHINA) - Y2",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FEELCH%5FB07%2FP%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EELCH_B07/P/Y3/1/(A) - Bachelor of Engineering in Electronic Engineering Level 7 (CHINA) - Y3",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FEELCH%5FB07%2FP%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EELCO_B07/F/Y3/1/(A) - B Eng in Electronic AND Computing L7 - Y3 - A",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FEELCO%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EELCO_K08/F/Y4/1/(A) - B Eng (Hons) in Electronic AND Computer Engineering L8 Y4 Add-On",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FEELCO%5FK08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EELEC_H08/F/Y1/1/(A) - B.Eng (Hons) in Electronics AND Self Driving Technologies Y1",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FEELEC%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A4/1/(A) - Electrical Apprenticship Phase 4 1A",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A4/1/(B) - Electrical Apprenticship Phase 4 1B",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA4%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A4/1/(C) - Electrical Apprenticship Phase 4 1B",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA4%2F1%2F%28C%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A4/1/(D) - Electrical Apprenticship Phase 4 1A",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA4%2F1%2F%28D%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A4/1/(E) - Electrical Apprenticship Phase 4 1A",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA4%2F1%2F%28E%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A4/1/(F) - Electrical Apprenticship Phase 4 1A",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA4%2F1%2F%28F%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A4/2/(A) - Electrical Apprenticship Phase 4 2A",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA4%2F2%2F%28A%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A4/2/(B) - Electrical Apprenticship Phase 42B",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA4%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A4/2/(C) - Electrical Apprenticship Phase 42C",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA4%2F2%2F%28C%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A4/2/(D) - Electrical Apprenticship Phase 42D",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA4%2F2%2F%28D%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A4/2/(E) - Electrical Apprenticship Phase 42E",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA4%2F2%2F%28E%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A4/2/(F) - Electrical Apprenticship Phase 42F",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA4%2F2%2F%28F%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A4/3/(A) - Electrical Apprenticship Phase 4  Term 3 Group A",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA4%2F3%2F%28A%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A4/3/(B) - Electrical Apprenticship Phase 4 Term 3 Group B",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA4%2F3%2F%28B%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A4/3/(C) - Electrical Apprenticship Phase 4 Term 3  Group C",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA4%2F3%2F%28C%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A4/3/(D) - Electrical Apprenticship Phase 4 Term 3 Group D",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA4%2F3%2F%28D%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A4/3/(E) - Electrical Apprenticship Phase 4 Term 3 Group E",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA4%2F3%2F%28E%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A4/3/(F) - Electrical Apprenticship Phase 4 Term 3 Group F",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA4%2F3%2F%28F%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A6/1/(A) - Electrical Apprenticship 6 1A",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA6%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A6/1/(B) - Electrical Apprenticship 61B",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA6%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A6/1/(C) - Electrical Apprenticship 61C",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA6%2F1%2F%28C%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A6/1/(D - Electrical Apprenticship 61D",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA6%2F1%2F%28D"
+    },
+    {
+        "name": "SG_EELEC_T/P/A6/1/(E) - Electrical Apprenticship 61E",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA6%2F1%2F%28E%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A6/1/(F) - Electrical Apprenticship 61F",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA6%2F1%2F%28F%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A6/2/(A) - Electrical Apprenticship 6 2A",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA6%2F2%2F%28A%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A6/2/(B) - Electrical Apprenticship 6 2B",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA6%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A6/2/(C) - Electrical Apprenticship 6 2C",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA6%2F2%2F%28C%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A6/2/(D) - Electrical Apprenticship 6 2D",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA6%2F2%2F%28D%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A6/2/(E) - Electrical Apprenticship 6 2E",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA6%2F2%2F%28E%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A6/2/(F) - Electrical Apprenticship 6 2F",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA6%2F2%2F%28F%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A6/3/(A) - Electrical Apprenticship Phase Term 3 Group A",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA6%2F3%2F%28A%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A6/3/(B) - Electrical Apprenticship  Phase 6 3B",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA6%2F3%2F%28B%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A6/3/(C - Electrical Apprenticship  Phase 6 3C",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA6%2F3%2F%28C"
+    },
+    {
+        "name": "SG_EELEC_T/P/A6/3/(D) - Electrical Apprenticship  Phase 6 3D",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA6%2F3%2F%28D%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A6/3/(E) - Electrical Apprenticship  Phase 6 3E",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA6%2F3%2F%28E%29"
+    },
+    {
+        "name": "SG_EELEC_T/P/A6/3/(F) - Electrical Apprenticship  Phase 6 3F",
+        "id": "Apprenticeships",
+        "code": "SG%5FEELEC%5FT%2FP%2FA6%2F3%2F%28F%29"
+    },
+    {
+        "name": "SG_EGENE_H08/F/Y1/1/(A) - B.Eng (Hons) in General Engineering L8 - Y1",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEGENE%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EGENE_X06/F/Y1/1/(C) - Higher Cert in General Engineering L6 - Y1",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEGENE%5FX06%2FF%2FY1%2F1%2F%28C%29"
+    },
+    {
+        "name": "SG_EGENE_X07/F/Y1/1/(C) - B.Eng in General Engineering L7 - Y1",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEGENE%5FX07%2FF%2FY1%2F1%2F%28C%29"
+    },
+    {
+        "name": "SG_EGEOT_E09/P/Y1 - Level 9 Certificate in Geotechnical AND Structural Engineering",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FEGEOT%5FE09%2FP%2FY1"
+    },
+    {
+        "name": "SG_EGEOT_M09/P/Y1 - M.Eng in Geotechnical/Strutural Engineering Joint Programme",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FEGEOT%5FM09%2FP%2FY1"
+    },
+    {
+        "name": "SG_EGEOT_M09/P/Y2 - M.Eng in Geotechnical/Strutural Engineering Joint Programme",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FEGEOT%5FM09%2FP%2FY2"
+    },
+    {
+        "name": "SG_ELEAN_E08/P/Y1/1/(A) - Level 8 Certificate in Engineering in Advanced Lean Sigma Quality (Project)",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FELEAN%5FE08%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ELSIG_S07/P/Y1/1/(A) - Certificate in Engineering in Lean Sigma Quality L7 - Y1",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FELSIG%5FS07%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EMANM_J07/P/Y3/1/(A) - Bsc in Manufacturing Managemenet L7 - Y1 - OLL",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEMANM%5FJ07%2FP%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EMANM_J07/P/Y3/2/(B) - Bsc in Manufacturing Managemenet L7 - Y2 - OLL",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEMANM%5FJ07%2FP%2FY3%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_EMANU_B07/P/Y1/1/(A) - Bachelor of Engineering in Manufacturing Y1 (Apprenticeship)",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEMANU%5FB07%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EMANU_B07/P/Y2/1/(A) - Bachelor of Engineering in Manufacturing Y2 (Apprenticeship)",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEMANU%5FB07%2FP%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EMANU_B07/P/Y3/1/(A - Bachelor of Engineering in Manufacturing Y3",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEMANU%5FB07%2FP%2FY3%2F1%2F%28A"
+    },
+    {
+        "name": "SG_EMANU_C06/P/Y1/1/(A - Higher Certificate in Engineering in Manufacturing  Y1 (Apprenticeship)",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEMANU%5FC06%2FP%2FY1%2F1%2F%28A"
+    },
+    {
+        "name": "SG_EMANU_C06/P/Y2/1/(A) (Apprenticeship) - Higher Certificate in Engineering in Manufacturing  Y2 (Apprenticeship)",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEMANU%5FC06%2FP%2FY2%2F1%2F%28A%29%20%28Apprenticeship%29"
+    },
+    {
+        "name": "SG_EMECH_H08/F/Y1/1/(B) - B.Eng (Hons) in Mechanical Engineering L8 - Y1",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEMECH%5FH08%2FF%2FY1%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_EMECH_H08/F/Y2/1/(A) - B.Eng (Hons) in Mechanical Engineering L8 - Y2",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEMECH%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EMECH_N07/P/Y1/1(A) - Minor Award in Mechatronic Engineering On Line",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEMECH%5FN07%2FP%2FY1%2F1%28A%29"
+    },
+    {
+        "name": "SG_EMECH_S06/P/Y1/1/(A) - Certificate in Engineering in Mechanical Analysisand Automation",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEMECH%5FS06%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EMECL_B07/F/Y1/1/(A) - B Eng in Mechanical Engineering L7 - Y1",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEMECL%5FB07%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EMECL_B07/F/Y1/1/(F) - B.Eng in Mechanical Engineering L7 - Y1",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEMECL%5FB07%2FF%2FY1%2F1%2F%28F%29"
+    },
+    {
+        "name": "SG_EMECL_B07/F/Y2 2(/B) - B Eng in Mechanical Engineering L7 - Y2 - B",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEMECL%5FB07%2FF%2FY2%202%28%2FB%29"
+    },
+    {
+        "name": "SG_EMECL_B07/F/Y2/1/(A) - B Eng in Mechanical Engineering L7 - Y2 - A",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEMECL%5FB07%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EMECL_B07/F/Y3/1/(A) - B Eng in Mechanical Engineering L7 - Y3 - A",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEMECL%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EMECL_B07/F/Y3/2/(B) - B Eng in Mechanical Engineering L7 - Y3 - B",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEMECL%5FB07%2FF%2FY3%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_EMECL_C06/F/Y1/1/(A) - SG_EMECL_C06/F/Y1/1/(A)",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEMECL%5FC06%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EMECL_C06/F/Y1/1/(F) - Higher Cert in Mechanical Engineering L6 - Y1",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEMECL%5FC06%2FF%2FY1%2F1%2F%28F%29"
+    },
+    {
+        "name": "SG_EMECL_K08/F/Y4/1/(A) - B Eng (Hons) in Mechanical Engineering L8 - Y4 - A",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEMECL%5FK08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EMSYS_B07/F/Y1/1/(A) - B Eng in Mechatronics Systems Level 7 FT Online - Y1",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEMSYS%5FB07%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EMSYS_B07/F/Y2/1/(A) - B Eng in Mechatronics Systems Level 7 FT Online - Y2",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEMSYS%5FB07%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EMSYS_B07/F/Y3/1/(A) - B Eng in Mechatronics Systems Level 7 FT Online - Y3",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEMSYS%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EMTRN_B07/F/Y1/1/(D) - B.Eng in Mechatronic Engineering L7 - Y1",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEMTRN%5FB07%2FF%2FY1%2F1%2F%28D%29"
+    },
+    {
+        "name": "SG_EMTRN_B07/F/Y1/2/(B) - B Eng in Mechatronics L7 - Y1 Group B",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEMTRN%5FB07%2FF%2FY1%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_EMTRN_B07/F/Y2/1/(A) - B Eng in Mechatronics L7 - Y2 - A",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEMTRN%5FB07%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EMTRN_B07/F/Y2/1/(B) - B Eng in Mechatronics L7 - Y2 - (ESME)",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEMTRN%5FB07%2FF%2FY2%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_EMTRN_B07/F/Y2/1/(C) - Group C Y2 - B Eng in Mechatronics L7 - Y2 - C",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEMTRN%5FB07%2FF%2FY2%2F1%2F%28C%29%20%2D%20Group%20C%20Y2"
+    },
+    {
+        "name": "SG_EMTRN_B07/F/Y3/1/(A) - B Eng in Mechatronics L7 - Y3 - A",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEMTRN%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EMTRN_C06/F/Y1/4/(D) - Higher Cert in Mechatronics L6 - Y1 Group D",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEMTRN%5FC06%2FF%2FY1%2F4%2F%28D%29"
+    },
+    {
+        "name": "SG_EMTRN_J07/P/Y3/1/(A) - B Eng in Mechatronics L7 - Y3 - On Line (1st Year)",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEMTRN%5FJ07%2FP%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EMTRN_J07/P/Y3/1/(A) Non Teaching Alocation - B Eng in Mechatronics L7 - Y3  Non Teaching Allocations",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEMTRN%5FJ07%2FP%2FY3%2F1%2F%28A%29%20Non%20Teaching%20Alocation"
+    },
+    {
+        "name": "SG_EMTRN_J07/P/Y3/2/(B) - B Eng in Mechatronics L7 - Y3  On line (2nd year)",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEMTRN%5FJ07%2FP%2FY3%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_EMTRN_K08/F/Y4/1/(A) - B Eng (Hons) in Mechatronics L8 - Y4 - A",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEMTRN%5FK08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EMTRN_K08/P/Y4/1/(A) - B Eng (Hons) in Mechatronics L8 - Y4 - A - OLL",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEMTRN%5FK08%2FP%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EMTRN_K08/P/Y4/1/(A) Project Allocations - B Eng (Hons) in Mechatronics L8 - Y4 Project Allocations",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEMTRN%5FK08%2FP%2FY4%2F1%2F%28A%29%20Project%20Allocations"
+    },
+    {
+        "name": "SG_EPLYP_C06/P/Y1/1/(A) - Certificate in Polymer Processing Non Teaching hours",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEPLYP%5FC06%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EPLYP_J07/P/Y1/1/(A) - B Eng in Polymer Processing L7 - Y1 On Line",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEPLYP%5FJ07%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EPLYP_J07/P/Y2/1/(A) - B Eng in Polymer Processing L7 - Y2  - On Line",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEPLYP%5FJ07%2FP%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EPLYP_J07/P/Y3/1/(A) - Non Teaching Activities - B Eng in Polymer Processing L7 - Y3 - Non Teaching Activities",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEPLYP%5FJ07%2FP%2FY3%2F1%2F%28A%29%20%2D%20Non%20Teaching%20Activities"
+    },
+    {
+        "name": "SG_EPOLY_B07/P/Y1/1(A) - Bachelor of Engineering Level 7 (Polymer Apprentice)",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEPOLY%5FB07%2FP%2FY1%2F1%28A%29"
+    },
+    {
+        "name": "SG_EPOLY_E06/P/Y1/1/(A) - Certificate in Polymer Technologies L6",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEPOLY%5FE06%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EPOLY_E06/P/Y1/1/(A) Non Teaching Activities - Non Teaching activities Certificate in Polymer Technologies",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEPOLY%5FE06%2FP%2FY1%2F1%2F%28A%29%20Non%20Teaching%20Activities"
+    },
+    {
+        "name": "SG_EPOLY_K08/P/Y1/1/(A) - B. Eng (Honours) in Polymer Processing Level 8  ODL",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEPOLY%5FK08%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EPREC_B07/F/Y1/1/(D) - B.Eng in Precision Engineering L7 - Y1",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEPREC%5FB07%2FF%2FY1%2F1%2F%28D%29"
+    },
+    {
+        "name": "SG_EPREC_B07/F/Y2/1/(A - B. Eng  in Precision Engineering AND Design Level 7 Year 2",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEPREC%5FB07%2FF%2FY2%2F1%2F%28A"
+    },
+    {
+        "name": "SG_EPREC_B07/F/Y3/1/(A) - B Eng in Precision Engineering AND Design L7 - Y3 - A",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEPREC%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EPREC_J07/P/Y3/1/(A) - B Eng in Precision Engineering AND Design L7 - Y3  On LIne",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEPREC%5FJ07%2FP%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EPREC_K08/F/Y4/1/(A) - Bachelor of Engineering (Honours) in Precision Engineering AND Desing Level 8 Year 4",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEPREC%5FK08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EPREC_K08/F/Y5/1/(A - Bachelor of Engineering (Honours) in Precision Engineering AND Desing Level 8 Year 5",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEPREC%5FK08%2FF%2FY5%2F1%2F%28A"
+    },
+    {
+        "name": "SG_EPROC_S06/P/Y1/1/(A - Certificate in Process Technology - Part time",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEPROC%5FS06%2FP%2FY1%2F1%2F%28A"
+    },
+    {
+        "name": "SG_EQLTY_K08/P/Y4/1/(A) - BSc (Hons) in Quality Management  L8 - Y4 - A - OLL",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEQLTY%5FK08%2FP%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EQLTY_K08/P/Y4/2/(B) - BSc (Hons) in Quality Management  L8 - Y4 -Y2 - OLL",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEQLTY%5FK08%2FP%2FY4%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_EQLTY_M09/P/Y5/1/(A) - M Sc in Quality L9 - Y5 - A - OLL",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEQLTY%5FM09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EQLTY_M09/P/Y5/2/(B) - M Sc in Quality L9 - Y5 - Y2  (B)- OLL",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEQLTY%5FM09%2FP%2FY5%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_EQUAL_E06/P/Y1/1/(A) - Certificate in Engineering in Quality Assurance L6",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEQUAL%5FE06%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ERENG_N09/P/Y1 - Certificate in Engineering in Road Engineering and Design",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FERENG%5FN09%2FP%2FY1"
+    },
+    {
+        "name": "SG_EROAD_M09/P/Y5/1/(A) - Masters of Engineering in Road and Transport Engineering L9",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FEROAD%5FM09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EROAD_M09/P/Y6/1/(A) - Masters of Engineering in Road and Transport Engineering L9",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FEROAD%5FM09%2FP%2FY6%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EROAD_M09/P/Y7/1/(A) - Masters of Engineering in Road and Transport Engineering L9",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FEROAD%5FM09%2FP%2FY7%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EROAD_N09/P/Y5/1/(A) - Certificate in Engineering Road Maintenance Engineering and Network Management",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FEROAD%5FN09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EROAD_O09/P/Y5/1/(A) - Post Graduate Diploma in Engineering in Road and Transport Engineering L9",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FEROAD%5FO09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EROAD_O09/P/Y6/1/(A) - Post Graduate Diploma in Engineering in Road and Transport Engineering L9",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FEROAD%5FO09%2FP%2FY6%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EROBO_H08/F/Y1/1/(B) - B.Eng (Hons) in Robotics & Automation L8 - Y1",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEROBO%5FH08%2FF%2FY1%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_EROBO_H08/F/Y2/1/(A) - B.Eng (Hons) in Robotics AND Automation L8 - Y2",
+        "id": "#SPLUSB4CB2D",
+        "code": "SG%5FEROBO%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ERSAF_S09/P/Y1 - Certificate in Road Safety Audit and Engineering",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FERSAF%5FS09%2FP%2FY1"
+    },
+    {
+        "name": "SG_ESENS_E09/P/Y1/1/(A\u0000 - Post Graduate Certificate in Sensors for Autonomous Vehicles L9",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FESENS%5FE09%2FP%2FY1%2F1%2F%28A%5C0"
+    },
+    {
+        "name": "SG_ESSYB_E07/P/Y1/1(A) - Certificate in Six Sigma Yellow Belt",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FESSYB%5FE07%2FP%2FY1%2F1%28A%29"
+    },
+    {
+        "name": "SG_ETMKG_T/P/A4/1/(A) - Toolmaking Apprenticship Phase 4 Term 1 Group A",
+        "id": "Apprenticeships",
+        "code": "SG%5FETMKG%5FT%2FP%2FA4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ETMKG_T/P/A4/1/(B) - Toolmaking Apprenticship Phase 4 Term 1 Group B",
+        "id": "Apprenticeships",
+        "code": "SG%5FETMKG%5FT%2FP%2FA4%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_ETMKG_T/P/A4/2/(A) - Toolmaking Apprenticship Phase 4 Term 2 Group A",
+        "id": "Apprenticeships",
+        "code": "SG%5FETMKG%5FT%2FP%2FA4%2F2%2F%28A%29"
+    },
+    {
+        "name": "SG_ETMKG_T/P/A4/2/(B) - Toolmaking Apprenticship Phase 4 Term 2 Group B",
+        "id": "Apprenticeships",
+        "code": "SG%5FETMKG%5FT%2FP%2FA4%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_ETMKG_T/P/A4/2/(C) - Toolmaking Apprenticship Phase 4 Term 2 Group C",
+        "id": "Apprenticeships",
+        "code": "SG%5FETMKG%5FT%2FP%2FA4%2F2%2F%28C%29"
+    },
+    {
+        "name": "SG_ETMKG_T/P/A4/3/(A) - Toolmaking Apprenticeship Phase 4 Term 3",
+        "id": "Apprenticeships",
+        "code": "SG%5FETMKG%5FT%2FP%2FA4%2F3%2F%28A%29"
+    },
+    {
+        "name": "SG_ETMKG_T/P/A6/1/(A) - Toolmaking Apprenticship Phase 6 Term 1",
+        "id": "Apprenticeships",
+        "code": "SG%5FETMKG%5FT%2FP%2FA6%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ETMKG_T/P/A6/1/(B) - Toolmaking Apprenticship Phase 6 Term 1 Group B",
+        "id": "Apprenticeships",
+        "code": "SG%5FETMKG%5FT%2FP%2FA6%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_ETMKG_T/P/A6/2/(A) - Toolmaking Apprenticship Phase 6 A Term 2",
+        "id": "Apprenticeships",
+        "code": "SG%5FETMKG%5FT%2FP%2FA6%2F2%2F%28A%29"
+    },
+    {
+        "name": "SG_ETMKG_T/P/A6/2/(B) - Toolmaking Apprenticship Phase 6 Term 2 Group B",
+        "id": "Apprenticeships",
+        "code": "SG%5FETMKG%5FT%2FP%2FA6%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_ETMKG_T/P/A6/3/(A) - Toolmaking Apprenticship Phase 6 Term 3 Group A",
+        "id": "Apprenticeships",
+        "code": "SG%5FETMKG%5FT%2FP%2FA6%2F3%2F%28A%29"
+    },
+    {
+        "name": "SG_ETMKG_T/P/A6/3/(B) - Toolmaking Phase 6  T3 Group B - Toolmaking Apprenticship Phase 6 Term 3 Group B",
+        "id": "Apprenticeships",
+        "code": "SG%5FETMKG%5FT%2FP%2FA6%2F3%2F%28B%29%20%2D%20Toolmaking%20Phase%206%20%20T3%20Group%20B"
+    },
+    {
+        "name": "SG_ETRON_J07/P/Y3/1/(A) - B Eng in Electronic Engineering  L7 - Y3 Online",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FETRON%5FJ07%2FP%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ETRON_K08/P/Y4/1/(A) - B Eng (Hons) in Electronics L8 - Y4 - A",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FETRON%5FK08%2FP%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_ETRON_K08/P/Y4/1/(A) Non Teaching Allocations - B Eng (Hons) in Electronics L8 - Y4 Non teaching allocations",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FETRON%5FK08%2FP%2FY4%2F1%2F%28A%29%20Non%20Teaching%20Allocations"
+    },
+    {
+        "name": "SG_EVALI_S06/P/Y1/1/(A) - Level 6 Special Purpose Award in Validation Technologies",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEVALI%5FS06%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EWORK_S06/P/Y1/1/(A) - Level 6 Certificate in Work Based Project",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEWORK%5FS06%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_EYELL_E07/P/Y1/1/(A) - Certificate in Engineering in Lean Yellow Belt",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FEYELL%5FE07%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_FLANG_S06/F/Y1 - Certificate in Language AND Intercultrual Tourism",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FFLANG%5FS06%2FF%2FY1"
+    },
+    {
+        "name": "SG_GCREA_M09/F/Y5/1/(A) - Master of Arts (Specialism)",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FGCREA%5FM09%2FF%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_GCREA_M09/F/Y6/1/(A) - Master of Arts (Specialism)",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FGCREA%5FM09%2FF%2FY6%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_GLAWB_H08/F/Y1(A) - B.A. Hons in Law and Business - Y1",
+        "id": "Social Sciences",
+        "code": "SG%5FGLAWB%5FH08%2FF%2FY1%28A%29"
+    },
+    {
+        "name": "SG_GLAWB_H08/F/Y2 (A) - B.A. Hons in Law and Business L8 - Y2",
+        "id": "Social Sciences",
+        "code": "SG%5FGLAWB%5FH08%2FF%2FY2%20%28A%29"
+    },
+    {
+        "name": "SG_GOOD_C06/P/Y1/1/(A) - Higher Certificate in Science in Good Manufacturing Practice and Technology",
+        "id": "Life Sciences",
+        "code": "SG%5FGOOD%5FC06%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_GSOCI_S06/P/Y1/(A) - Certificate in Social Prescribing",
+        "id": "Social Sciences",
+        "code": "SG%5FGSOCI%5FS06%2FP%2FY1%2F%28A%29"
+    },
+    {
+        "name": "SG_GSPEC_M09/F/Y5/1/(A) - Master of Arts (Specialism)",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FGSPEC%5FM09%2FF%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_GSPEC_M09/F/Y6/1/(A) - Master of Arts (Specialism)",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FGSPEC%5FM09%2FF%2FY6%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_HBUSI_H08/F/Y1 - B.A. (Hons) in Business and Irish",
+        "id": "Business",
+        "code": "SG%5FHBUSI%5FH08%2FF%2FY1"
+    },
+    {
+        "name": "SG_HEARL_H08/F/Y2/NT (NT) - Z - BA (Hons)  Early Child Care AND Education L8 - Y2  - Non Teaching Hours",
+        "id": "Social Sciences",
+        "code": "SG%5FHEARL%5FH08%2FF%2FY2%2FNT%20%28NT%29"
+    },
+    {
+        "name": "SG_HEARL_H08/F/Y3/1/(A) - BA (Hons)  Early Child Care AND Education L8 - Y3 - A",
+        "id": "Social Sciences",
+        "code": "SG%5FHEARL%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_HEARL_H08/F/Y3/2 /(B) - BA (Hons)  Early Child Care AND Education L8 - Y3 - B",
+        "id": "Social Sciences",
+        "code": "SG%5FHEARL%5FH08%2FF%2FY3%2F2%20%2F%28B%29"
+    },
+    {
+        "name": "SG_HEARL_H08/F/Y3/NT/(NT) - Z - BA (Hons)  Early Child Care AND Education L8 - Y3 - Non Teaching Hours",
+        "id": "Social Sciences",
+        "code": "SG%5FHEARL%5FH08%2FF%2FY3%2FNT%2F%28NT%29"
+    },
+    {
+        "name": "SG_HEARL_H08/F/Y4/1/(A) - BA (Hons)  Early Child Care AND Education L8 - Y4 - A",
+        "id": "Social Sciences",
+        "code": "SG%5FHEARL%5FH08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_HEARL_H08/F/Y4/2 /(B) - BA (Hons)  Early Child Care AND Education L8 - Y4 - B",
+        "id": "Social Sciences",
+        "code": "SG%5FHEARL%5FH08%2FF%2FY4%2F2%20%2F%28B%29"
+    },
+    {
+        "name": "SG_HEARL_H08/F/Y4/3/(C) - BA (Hons)  Early Child Care AND Education L8 - Y4 - C",
+        "id": "Social Sciences",
+        "code": "SG%5FHEARL%5FH08%2FF%2FY4%2F3%2F%28C%29"
+    },
+    {
+        "name": "SG_HEARL_H08/F/Y4/NT/(NT) - Z - BA (Hons)  Early Child Care AND Education L8 - Y4 - Non Teaching Hours",
+        "id": "Social Sciences",
+        "code": "SG%5FHEARL%5FH08%2FF%2FY4%2FNT%2F%28NT%29"
+    },
+    {
+        "name": "SG_HENGL_H08/F/Y1(A)/(NT) - B.A.(Hons) in Humanities in Joint Major English AND Psychology (NT)",
+        "id": "Social Sciences",
+        "code": "SG%5FHENGL%5FH08%2FF%2FY1%28A%29%2F%28NT%29"
+    },
+    {
+        "name": "SG_HENGL_H08/F/Y1/(A) - B.A.(Hons) in Humanities in Joint Major English AND Psychology Y1",
+        "id": "Social Sciences",
+        "code": "SG%5FHENGL%5FH08%2FF%2FY1%2F%28A%29"
+    },
+    {
+        "name": "SG_HENGL_H08/F/Y2/(A) - B.A.(Hons) in Humanities in Joint Major English AND Psychology Y2",
+        "id": "Social Sciences",
+        "code": "SG%5FHENGL%5FH08%2FF%2FY2%2F%28A%29"
+    },
+    {
+        "name": "SG_HENGL_H08/F/Y3/(A) - B.A.(Hons) in Humanities in Joint Major English AND Psychology Y3",
+        "id": "Social Sciences",
+        "code": "SG%5FHENGL%5FH08%2FF%2FY3%2F%28A%29"
+    },
+    {
+        "name": "SG_HJOIN_H08/F/(NT) - B.A.(Hons) in Humanities in Joint Major Sociology & Politics (NT)",
+        "id": "Social Sciences",
+        "code": "SG%5FHJOIN%5FH08%2FF%2F%28NT%29"
+    },
+    {
+        "name": "SG_HJOIN_H08/F/Y1/(A) - B.A.(Hons) in Humanities in Joint Major Sociology AND Politics Y1",
+        "id": "Social Sciences",
+        "code": "SG%5FHJOIN%5FH08%2FF%2FY1%2F%28A%29"
+    },
+    {
+        "name": "SG_HJOIN_H08/F/Y2/(A) - B.A.(Hons) in Humanities in Joint Major Sociology AND Politics Y2",
+        "id": "Social Sciences",
+        "code": "SG%5FHJOIN%5FH08%2FF%2FY2%2F%28A%29"
+    },
+    {
+        "name": "SG_HJOIN_H08/F/Y3/(A) - B.A.(Hons) in Humanities in Joint Major Sociology AND Politics Y3",
+        "id": "Social Sciences",
+        "code": "SG%5FHJOIN%5FH08%2FF%2FY3%2F%28A%29"
+    },
+    {
+        "name": "SG_HLEAD_M09/Y1/(NT) - MA in Humanities in Leadership in Early Childhood Care and Education (NT1)",
+        "id": "Social Sciences",
+        "code": "SG%5FHLEAD%5FM09%2FY1%2F%28NT%29"
+    },
+    {
+        "name": "SG_HLEAD_M09/Y1/1/(A - MA in Humanities in Leadership in Early Childhood Care and Education Y1",
+        "id": "Social Sciences",
+        "code": "SG%5FHLEAD%5FM09%2FY1%2F1%2F%28A"
+    },
+    {
+        "name": "SG_HLEAD_M09/Y2/(NT) - MA in Humanities in Leadership in Early Childhood Care and Education (NT2)",
+        "id": "Social Sciences",
+        "code": "SG%5FHLEAD%5FM09%2FY2%2F%28NT%29"
+    },
+    {
+        "name": "SG_HLEAD_M09/Y2/1/(A) - MA in Humanities in Leadership in Early Childhood Care and Education Y2",
+        "id": "Social Sciences",
+        "code": "SG%5FHLEAD%5FM09%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_HPROF_M09/P/Y1 - Master of Arts in Humanities in Professional Leadership Y1",
+        "id": "Social Sciences",
+        "code": "SG%5FHPROF%5FM09%2FP%2FY1"
+    },
+    {
+        "name": "SG_HPROF_M09/P/Y1(NT) - Master of Arts in Humanities in Professional Leadership (NT)",
+        "id": "Social Sciences",
+        "code": "SG%5FHPROF%5FM09%2FP%2FY1%28NT%29"
+    },
+    {
+        "name": "SG_HPROF_M09/P/Y2 - Master of Arts in Humanities in Professional Leadership Y2",
+        "id": "Social Sciences",
+        "code": "SG%5FHPROF%5FM09%2FP%2FY2"
+    },
+    {
+        "name": "SG_HPROF_S09/P/Y1 - Certificate in Humanities in Professional Leadership",
+        "id": "Social Sciences",
+        "code": "SG%5FHPROF%5FS09%2FP%2FY1"
+    },
+    {
+        "name": "SG_HPROF_S09/P/Y1(NT) - Certificate in Humanities in Professional Leadership (NT)",
+        "id": "Social Sciences",
+        "code": "SG%5FHPROF%5FS09%2FP%2FY1%28NT%29"
+    },
+    {
+        "name": "SG_HSOCI_H08/F/Y1/1 (A) - BA Hons Social Care Practice 1A",
+        "id": "Social Sciences",
+        "code": "SG%5FHSOCI%5FH08%2FF%2FY1%2F1%20%28A%29"
+    },
+    {
+        "name": "SG_HSOCI_H08/F/Y1/1/INT - Z - BA Hons Social Care Practice 1 Non Teach",
+        "id": "Social Sciences",
+        "code": "SG%5FHSOCI%5FH08%2FF%2FY1%2F1%2FINT"
+    },
+    {
+        "name": "SG_HSOCI_H08/F/Y1/2/(B) - BA Hons Social Care Practice 1B",
+        "id": "Social Sciences",
+        "code": "SG%5FHSOCI%5FH08%2FF%2FY1%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_HSOCI_H08/F/Y1/3/(C) - BA Hons Social Care Practice 1C",
+        "id": "Social Sciences",
+        "code": "SG%5FHSOCI%5FH08%2FF%2FY1%2F3%2F%28C%29"
+    },
+    {
+        "name": "SG_HSOCI_H08/F/Y1/4/(D) - BA Hons Social Care Practice 1D",
+        "id": "Social Sciences",
+        "code": "SG%5FHSOCI%5FH08%2FF%2FY1%2F4%2F%28D%29"
+    },
+    {
+        "name": "SG_HSOCI_H08/F/Y2/1/(A) - BA Hons Social Care Practice 2A",
+        "id": "Social Sciences",
+        "code": "SG%5FHSOCI%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_HSOCI_H08/F/Y2/1/(NT) - Z - BA Hons Social Care Practice 2 Non Teaching",
+        "id": "Social Sciences",
+        "code": "SG%5FHSOCI%5FH08%2FF%2FY2%2F1%2F%28NT%29"
+    },
+    {
+        "name": "SG_HSOCI_H08/F/Y2/2/(B) - BA Hons Social Care Practice 2B",
+        "id": "Social Sciences",
+        "code": "SG%5FHSOCI%5FH08%2FF%2FY2%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_HSOCI_H08/F/Y2/3 /(C) - BA Hons Social Care Practice 2C",
+        "id": "Social Sciences",
+        "code": "SG%5FHSOCI%5FH08%2FF%2FY2%2F3%20%2F%28C%29"
+    },
+    {
+        "name": "SG_HSOCI_H08/F/Y3/1(NT) - Z - BA Hons Social Care Practice 3 Non Teaching",
+        "id": "Social Sciences",
+        "code": "SG%5FHSOCI%5FH08%2FF%2FY3%2F1%28NT%29"
+    },
+    {
+        "name": "SG_HSOCI_H08/F/Y3/1/(A) - BA Hons Social Care Practice 3A",
+        "id": "Social Sciences",
+        "code": "SG%5FHSOCI%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_HSOCI_H08/F/Y3/2/(B) - BA Hons Social Care Practice 3B",
+        "id": "Social Sciences",
+        "code": "SG%5FHSOCI%5FH08%2FF%2FY3%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_HSOCI_H08/F/Y3/3/(C) - BA Hons Social Care Practice 3C",
+        "id": "Social Sciences",
+        "code": "SG%5FHSOCI%5FH08%2FF%2FY3%2F3%2F%28C%29"
+    },
+    {
+        "name": "SG_HSOCI_H08/F/Y4/1/(A) - BA Hons Social Care Practice 4 A",
+        "id": "Social Sciences",
+        "code": "SG%5FHSOCI%5FH08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_HSOCI_H08/F/Y4/2/(B) - BA Hons Social Care Practice 4 B",
+        "id": "Social Sciences",
+        "code": "SG%5FHSOCI%5FH08%2FF%2FY4%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_HSOCI_H08/F/Y4/3/(C) - BA Hons Social Care Practice 4 C",
+        "id": "Social Sciences",
+        "code": "SG%5FHSOCI%5FH08%2FF%2FY4%2F3%2F%28C%29"
+    },
+    {
+        "name": "SG_HSOCI_H08/F/Y4/NT (NT) - Z - BA Hons Social Care Practice 4 Non Teaching",
+        "id": "Social Sciences",
+        "code": "SG%5FHSOCI%5FH08%2FF%2FY4%2FNT%20%28NT%29"
+    },
+    {
+        "name": "SG_HTEAC_S09/P/Y1 - Certificate in Humanties in Teaching, Learning and Assessment",
+        "id": "Social Sciences",
+        "code": "SG%5FHTEAC%5FS09%2FP%2FY1"
+    },
+    {
+        "name": "SG_HWLIT_H08/F/Y1/1/(B) - Group C - Bachelor of Arts (Honours) Writing and Literature (Online) - Y1 - Group C",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FHWLIT%5FH08%2FF%2FY1%2F1%2F%28B%29%20%2D%20Group%20C"
+    },
+    {
+        "name": "SG_HWLIT_H08/F/Y1/1/(D) - Bachelor of Arts (Honours) Writing and Literature (Online) - Group D  -Not Running 22/23",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FHWLIT%5FH08%2FF%2FY1%2F1%2F%28D%29"
+    },
+    {
+        "name": "SG_HWLIT_H08/F/Y2/1(C) - Group C - Bachelor of Arts (Honours) Writing and Literature (Online) Y2 - Group C",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FHWLIT%5FH08%2FF%2FY2%2F1%28C%29%20%2D%20Group%20C"
+    },
+    {
+        "name": "SG_HWLIT_H08/F/Y2/1(D) - Group C - Bachelor of Arts (Honours) Writing and Literature (Online) - Y2 - Group D Not Running 22/23",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FHWLIT%5FH08%2FF%2FY2%2F1%28D%29%20%2D%20Group%20C"
+    },
+    {
+        "name": "SG_HWLIT_H08/F/Y3 (C) - Bachelor of Arts (Honours) Writing and Literature (Online)  Y3 - Group C",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FHWLIT%5FH08%2FF%2FY3%20%28C%29"
+    },
+    {
+        "name": "SG_HWLIT_H08/F/Y3/1(D) - Bachelor of Arts (Honours) Writing and Literature (Online)  Y3 - Group D",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FHWLIT%5FH08%2FF%2FY3%2F1%28D%29"
+    },
+    {
+        "name": "SG_HWRIT_H08/F/Y1/(NT) - Bachelor of Arts (Honours) Writing and Literature NT",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FHWRIT%5FH08%2FF%2FY1%2F%28NT%29"
+    },
+    {
+        "name": "SG_HWRIT_H08/F/Y1/1/(A) - Bachelor of Arts (Honours) Writing and Literature Y1 - Group A",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FHWRIT%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_HWRIT_H08/F/Y1/1/(B) - Bachelor of Arts (Honours) Writing and Literature Y1 - Group B",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FHWRIT%5FH08%2FF%2FY1%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_HWRIT_H08/F/Y2/1/(A) - Bachelor of Arts (Honours) Writing and Literature Year 2 Group A",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FHWRIT%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_HWRIT_H08/F/Y2/1/(B) - Bachelor of Arts (Honours) Writing and Literature Year 2 Group B",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FHWRIT%5FH08%2FF%2FY2%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_HWRIT_H08/F/Y3/(NT) - Bachelor of Arts (Honours) Writing and Literature Year 3",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FHWRIT%5FH08%2FF%2FY3%2F%28NT%29"
+    },
+    {
+        "name": "SG_HWRIT_H08/F/Y3/1/(A) - Bachelor of Arts (Honours) Writing and Literature Year 3",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FHWRIT%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_HWRIT_H08/F/Y3/1/(B - Bachelor of Arts (Honours) Writing and Literature Year 3",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FHWRIT%5FH08%2FF%2FY3%2F1%2F%28B"
+    },
+    {
+        "name": "SG_JINTE_K08/F/Y4/1/(A) - BA (Hons) in Architecural Design Level 8 Year 4",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FJINTE%5FK08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_JINTE_K08/Y4/F/1/(A)/NT - BA (Hons) in Architecural Design Level 8 Year 4",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FJINTE%5FK08%2FY4%2FF%2F1%2F%28A%29%2FNT"
+    },
+    {
+        "name": "SG_JQUAN_B07/F/Y1/1/(A) - BSc in Quantity Surveying Level 7 - Y1",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FJQUAN%5FB07%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_JQUAN_B07/F/Y2/1/(A) - BSc in Quantity Surveying Level 7 - Y2",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FJQUAN%5FB07%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_JQUAN_B07/F/Y3/1/(A) - BSc in Quantity Surveying Level 7 - Y3",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FJQUAN%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_JQUAN_H08/F/Y1/1/(A) - BSc (Hons) in Quantity Surveying L8 - Y1 Group A",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FJQUAN%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_JQUAN_H08/F/Y1/1/(B) - BSc (Hons) in Quantity Surveying L8 - Y1 Group B",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FJQUAN%5FH08%2FF%2FY1%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_JQUAN_H08/F/Y2/1/(A) - BSc (Hons) in Quantity Surveying L8 - Y2",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FJQUAN%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_JQUAN_H08/F/Y3/1/(A) - BSc (Hons) in Quantity Surveying L8 - Y3",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FJQUAN%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_JQUAN_H08/F/Y4/1/(A) - QS - L8 - Y4 -A - BSc (Hons) in Quantity Surveying L8 - Y4",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FJQUAN%5FH08%2FF%2FY4%2F1%2F%28A%29%20%2D%20QS%20%2D%20L8%20%2D%20Y4%20%2DA"
+    },
+    {
+        "name": "SG_JQUAN_J07/P/Y3/1/(A) - BSc in Quantity Surveying Level 7 - Y3  Online",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FJQUAN%5FJ07%2FP%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_JQUAN_K08/P/Y4/1/(A) - B.Sc Hons Quantity Surveying Level 8 - Y4 Online",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FJQUAN%5FK08%2FP%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_JQUAN_K08/P/Y4/1/(A)/NT - B.Sc Hons Quantity Surveying Level 8 Y4 on line NT activities",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FJQUAN%5FK08%2FP%2FY4%2F1%2F%28A%29%2FNT"
+    },
+    {
+        "name": "SG_JQUAN_K08/P/Y4/2/B - B.Sc Hons Quantity Surveying Level 8 Y4 OL 2(B)",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FJQUAN%5FK08%2FP%2FY4%2F2%2FB"
+    },
+    {
+        "name": "SG_KAPPL_H08/F/Y1/1/(A) - BA (Hons) in Computing Application Design and User Experience L8 - Y1 Group A",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKAPPL%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KAPPL_H08/F/Y2/1/(A) - BA (Hons) in Computing in Application Design and User Experience - Y2",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKAPPL%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KAPPL_H08/F/Y2/1/(A) - International Group - BA (Hons) in Computing in Application Design and User Experience - Y2 International Group",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKAPPL%5FH08%2FF%2FY2%2F1%2F%28A%29%20%2D%20International%20Group"
+    },
+    {
+        "name": "SG_KAPPL_H08/F/Y3/1/(A) - BA (Hons) in Computing in Application Design and User Experience - Y3",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKAPPL%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KAPPL_H08/F/Y4/1/(A) - BA (Hons) in Computing in Application Design and User Experience - Y4",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKAPPL%5FH08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KCMPU_B07/F/Y1/1(D) - BSc in Computing Level 7  - Y1 Group D",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKCMPU%5FB07%2FF%2FY1%2F1%28D%29"
+    },
+    {
+        "name": "SG_KCMPU_C06/F/Y1/1/(A) - Higher Certificate in Science in Computing Level 6 - Y1 Group A",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKCMPU%5FC06%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KCMPU_C06/F/Y2/1/(A) - Higher Certificate in Science in Computing Level 6 - Y2",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKCMPU%5FC06%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KCMPU_H08/F/Y1/1/(D - BSc (Hons) in Computing L8 - Y1 Group D",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKCMPU%5FH08%2FF%2FY1%2F1%2F%28D"
+    },
+    {
+        "name": "SG_KCMPU_H08/F/Y2/2/(B) - BSc (Hons) in Computing L8 - Y2",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKCMPU%5FH08%2FF%2FY2%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_KCMPU_H08/F/Y3/1/(A) - BSc (Hons) in Computing L8 - Y3",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKCMPU%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KCMPU_H08/F/Y4/1/(A) - BSc (Hons) in Computing L8 - Y4 (Cloud stream)",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKCMPU%5FH08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KCMPU_H08/F/Y4/2/(B) - BSc (Hons) in Computing L8 - Y4 (Software)",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKCMPU%5FH08%2FF%2FY4%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_KCMPU_L08/F/Y1/1/(A) Non teaching hours - H. Dip Sc. in Computing 1/Non teaching hours",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKCMPU%5FL08%2FF%2FY1%2F1%2F%28A%29%20Non%20teaching%20hours"
+    },
+    {
+        "name": "SG_KCMPU_L08/P/Y1/1/(A) - Higher Diploma in Science in Computing Level 8",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKCMPU%5FL08%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KCMPU_L08/P/Y2/1/(A) - Higher Diploma in Science in Computing Level 8",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKCMPU%5FL08%2FP%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KCNCS_B07/F/Y1/1/(A) - B.Sc in Computer Networks and Cyber Security L7 - Y1",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKCNCS%5FB07%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KCNCS_B07/F/Y2/1/(A) - B.Sc in Computer Networks and Cyber Security L7 - Y213",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKCNCS%5FB07%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KCNCS_H08/F/Y1/1/(A) - B.Sc (Hons) in Computer Networks and Cyber Security L8 - Y1",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKCNCS%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KCNCS_H08/F/Y2/1/(A) - B.Sc (Hons) in Computer Networks and Cyber Security L8 - Y2",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKCNCS%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KDATA_M09/P/Y5/1/(A) - M.Sc in Data Science - Y1",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKDATA%5FM09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KDATA_M09/P/Y6/1/(A) - M.Sc in Data Science - Y2",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKDATA%5FM09%2FP%2FY6%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KGADV_B07/F/Y1/1/(B) - BSc Computing Games Development L7 - Y1 Group B",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKGADV%5FB07%2FF%2FY1%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_KGADV_B07/F/Y2/1/(A) - BSc Computing Games Development L7 - Y2",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKGADV%5FB07%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KGADV_B07/F/Y3/1/(A) - BSc Computing Games Development L7 - Y3",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKGADV%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KNCLD_B07/F/Y3/1/(A) - BSc in Computing Networks and Cloud Infrastructure L7 - Y3",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKNCLD%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KNCLD_E08/P/Y1/1/(A) - Certificate in Computer Networks and Cloud Infrastructure L8 Y1",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKNCLD%5FE08%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KNCLD_H08/F/Y3/1/(A) - BSc (Hons) in Computing Networks and Cloud Infrastructure L8 - Y3",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKNCLD%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KNCLD_K08/F/Y4/1(A) - BSc Hons in Computer Networks and Cloud Infrastructure L8 - Y4 Add on",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKNCLD%5FK08%2FF%2FY4%2F1%28A%29"
+    },
+    {
+        "name": "SG_KSECU_E08/P/Y1/1/(A) - Certificate in Secure IT and Deep/Machine Learning L8  Y1",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKSECU%5FE08%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KSFTD_K08/F/Y4/1/(A) - BSc Hons in Computing in Software Development L8 - Y4 (Add on)",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKSFTD%5FK08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KSMAR_H08/F/Y1/1/(A) - BSc (Hons) in Computing in Smart Technologies Level 8 Year 1 (Group A)",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKSMAR%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KSMAR_H08/F/Y2/1/(A) - BSc (Hons) in Computing in Smart Technologies Level 8 Year 2",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKSMAR%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KSODV_B07/F/Y1/1/(C) - BSc Computing in Software Development L7 - Y1 (Group C)",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKSODV%5FB07%2FF%2FY1%2F1%2F%28C%29"
+    },
+    {
+        "name": "SG_KSODV_B07/F/Y2/1/(A) - BSc Computing in Software Development L7 - Y2",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKSODV%5FB07%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KSODV_B07/F/Y3/1/(A) - BSc Computing Software Development L7 - Y3",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKSODV%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KSODV_H08/F/Y1/1/(C) - BSc (Hons) in Computing in Software Development L8 - Y1 (Group C)",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKSODV%5FH08%2FF%2FY1%2F1%2F%28C%29"
+    },
+    {
+        "name": "SG_KSODV_H08/F/Y2/1/(B) - BSc (Hons) in Computing in Software Development L8 - Y2",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKSODV%5FH08%2FF%2FY2%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_KSODV_H08/F/Y3/1/(A - BSc (Hons) in Computing in Software Development L8 - Y3",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKSODV%5FH08%2FF%2FY3%2F1%2F%28A"
+    },
+    {
+        "name": "SG_KSODV_H08/F/Y4/1/(A) - BSc (Hons) in Computing in Software Development L8 - Y4",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKSODV%5FH08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KSODV_K08/P/Y1/1/(A) - BSc (Hons) Software Development Level 8 Add on Y1 On line",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKSODV%5FK08%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_KSOFT_E08/P/Y1/1/(A) - Certificate in Software Development L8 Y1",
+        "id": "Computing and Creative Practices",
+        "code": "SG%5FKSOFT%5FE08%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_MBUSI_H08/F/Y1/(A) - BA (Hons) in Business and ICT - Y1",
+        "id": "Business",
+        "code": "SG%5FMBUSI%5FH08%2FF%2FY1%2F%28A%29"
+    },
+    {
+        "name": "SG_MBUSI_H08/F/Y2/(A) - BA (Hons) in Business and ICT - Y2",
+        "id": "Business",
+        "code": "SG%5FMBUSI%5FH08%2FF%2FY2%2F%28A%29"
+    },
+    {
+        "name": "SG_MEDI_H08/F/Y1/1/(A) - B.Sc (Hons) in Medical Biotechnology L8 - Y1 - A",
+        "id": "Life Sciences",
+        "code": "SG%5FMEDI%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_MENG_R/F/Y6/1(A) - M Eng by Research L9",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FMENG%5FR%2FF%2FY6%2F1%28A%29"
+    },
+    {
+        "name": "SG_PCOUN_E06/P/Y1/(A) - SG_PCOUN_E06 Certificate in Counselling Y1",
+        "id": "Social Sciences",
+        "code": "SG%5FPCOUN%5FE06%2FP%2FY1%2F%28A%29"
+    },
+    {
+        "name": "SG_PCOUN_E06/P/Y2/1/(A) - SG_PCOUN_E06 Certificate in Counselling - Y2",
+        "id": "Social Sciences",
+        "code": "SG%5FPCOUN%5FE06%2FP%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SACON_C06/F/Y1/1/(A) - Higher Certificate in Science in Applied Construction Technology",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSACON%5FC06%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SACON_C06/F/Y2/1/(A) - Higher Certificate in Science in Applied Construction Technology Y2",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSACON%5FC06%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SAPMS_H08/P/Y1/1/(A) - Bachelor of Science (Honours) in Applied Medical Science Y1(UU programme)",
+        "id": "Life Sciences",
+        "code": "SG%5FSAPMS%5FH08%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SAPMS_H08/P/Y2/1/(A) - Bachelor of Science (Honours) in Applied Medical Science Y2 (UU programme)",
+        "id": "Life Sciences",
+        "code": "SG%5FSAPMS%5FH08%2FP%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SAPMS_H08/P/Y3/1/(A) - Bachelor of Science (Honours) in Applied Medical Science Y3 (UU programme)",
+        "id": "Life Sciences",
+        "code": "SG%5FSAPMS%5FH08%2FP%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SAPPL_H08/F/Y4/1/(A) - BSc Hons Applied Archaeology L8 - Yr 4",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSAPPL%5FH08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SAPPM_K08/P/Y1/1/(A) - B.Sc (Hons) in Applied Industrial Science (Add-On) L8",
+        "id": "Life Sciences",
+        "code": "SG%5FSAPPM%5FK08%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SBIMA_S09/P/Y5/1/(A) - Certificate in BIM and Lean Construction Management L9 on Line",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSBIMA%5FS09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SBIOE_E07/P/Y1/1/(A) - Certificate in Science in Bioprocess Engineering Level 7",
+        "id": "Life Sciences",
+        "code": "SG%5FSBIOE%5FE07%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SBIOI_E09/P/Y1/1/(A) - Certificate in BioIndustry 4.0 Level 9",
+        "id": "Life Sciences",
+        "code": "SG%5FSBIOI%5FE09%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SBIOM_B07/F/Y1/1/(A) - B.Sc Biomedical Science L7 - Yr 1",
+        "id": "Life Sciences",
+        "code": "SG%5FSBIOM%5FB07%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SBIOM_B07/F/Y1/2/(B) - B.Sc Biomedical Science L7 - Yr 1 Group B",
+        "id": "Life Sciences",
+        "code": "SG%5FSBIOM%5FB07%2FF%2FY1%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_SBIOM_B07/F/Y2/1/(C) - B.Sc Biomedical Science L7 - Yr 2",
+        "id": "Life Sciences",
+        "code": "SG%5FSBIOM%5FB07%2FF%2FY2%2F1%2F%28C%29"
+    },
+    {
+        "name": "SG_SBIOM_B07/F/Y3/1/(A) - B.Sc Biomedical Science L7 - Yr 3 A",
+        "id": "Life Sciences",
+        "code": "SG%5FSBIOM%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SBIOM_B07/F/Y3/2/(B) - B.Sc Biomedical Science L7 - Yr 3 B",
+        "id": "Life Sciences",
+        "code": "SG%5FSBIOM%5FB07%2FF%2FY3%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_SBIOM_H08/P/Y1/1/(A) - B.Sc (Hons) in Biomedical AND BioIndustrial Sciences",
+        "id": "Life Sciences",
+        "code": "SG%5FSBIOM%5FH08%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SBIOM_H08/P/Y2/1/(A) - B.Sc (Hons) in Biomedical AND BioIndustrial Sciences L8 Y2",
+        "id": "Life Sciences",
+        "code": "SG%5FSBIOM%5FH08%2FP%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SBIOM_H08/P/Y3/1/(A) - B.Sc (Hons) in Biomedical AND BioIndustrial Sciences L8 Y3",
+        "id": "Life Sciences",
+        "code": "SG%5FSBIOM%5FH08%2FP%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SBIOM_H08/P/Y4/1/(A) - B.Sc (Hons) in Biomedical AND BioIndustrial Sciences L8 Y4",
+        "id": "Life Sciences",
+        "code": "SG%5FSBIOM%5FH08%2FP%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SBIOP_C06/P/Y1/1/(A) - Certificate in Science in Bioprocessing Level 6  (delivered by NIBRT)",
+        "id": "Life Sciences",
+        "code": "SG%5FSBIOP%5FC06%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SBIOP_E08/P/Y1/1/(A) - Certficiate in Science in Biopharmaceutical Science Level 8",
+        "id": "Life Sciences",
+        "code": "SG%5FSBIOP%5FE08%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SBIOP_E09/P/Y5/1/(A) - Certificate in Biopharmaceutical Science Level 9",
+        "id": "Life Sciences",
+        "code": "SG%5FSBIOP%5FE09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SBIOP_J07/P/Y3/1/(A) - Bachelor of Science in Biopharmaceutical Science L7",
+        "id": "Life Sciences",
+        "code": "SG%5FSBIOP%5FJ07%2FP%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SBIOP_K08/P/Y4/1/(A) - Bachelor of Science Honours in Biopharmaceutical Science L8",
+        "id": "Life Sciences",
+        "code": "SG%5FSBIOP%5FK08%2FP%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SBIOP_M09/P/Y5/1/(A - Master of Science in Biopharmaceutical Science  Level 9 ODL",
+        "id": "Life Sciences",
+        "code": "SG%5FSBIOP%5FM09%2FP%2FY5%2F1%2F%28A"
+    },
+    {
+        "name": "SG_SBIOP_O09/P/Y5/1/(A) - Post Gradudate Diploma in Biopharma Science Level 9",
+        "id": "Life Sciences",
+        "code": "SG%5FSBIOP%5FO09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SBIOT_E08/P/Y1/1/(A) - Certificate in Science in Bioprocessing Technologies",
+        "id": "Life Sciences",
+        "code": "SG%5FSBIOT%5FE08%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SBIPR_E09/P/Y5/1/(A) - Certificate in Science in BioPharmaceutical Processing  Level 9",
+        "id": "Life Sciences",
+        "code": "SG%5FSBIPR%5FE09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SBIPR_M09/P/Y5/1/(A) - Master of Science in Biopharmaceutical Processing Level 9",
+        "id": "Life Sciences",
+        "code": "SG%5FSBIPR%5FM09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SBPRO_M09/F/Y5/1/(A) - Master of Science in Bioprocessing Level 9 Full time",
+        "id": "Life Sciences",
+        "code": "SG%5FSBPRO%5FM09%2FF%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SCLIN_Q09/F/Y5/1/(A) - Master of Science in Clinical Measurement Physiology15",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSCLIN%5FQ09%2FF%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SCONS_H08/F/Y1/1/(A) - BSc (Hons) in Construction Project Management and Applied Technology - Y1",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSCONS%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SCONS_H08/F/Y2/1/(A) - BSc (Hons) in Construction Project Management and Applied Technology - Y2",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSCONS%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SCONS_H08/F/Y3/1/(A) - B.Sc (Hons) in Construction Project Management and Applied Technology - Y3",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSCONS%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SCONS_H08/F/Y4/1/(A) - B.Sc (Hons) in Construction Project Management and Applied Technology - Y4",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSCONS%5FH08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SCONS_N07/P/Y1/1/(A) - Certificate in Science in Construction Site Management L7",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSCONS%5FN07%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SCONS_S09/P/Y5/1/(A) - Certificate in Construction Law, Procurement and Finance",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSCONS%5FS09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SDATA_E07/P/Y1/1/(A) - Certificate in Health Data Analytics",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSDATA%5FE07%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SDIGI_E07/P/Y1 - Certificate in Science in Digital Construction Technology",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSDIGI%5FE07%2FP%2FY1"
+    },
+    {
+        "name": "SG_SDRIN_E06/P/Y1/(A) - Certificate in Science in Drinking Water Treatment Operations - Y1",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSDRIN%5FE06%2FP%2FY1%2F%28A%29"
+    },
+    {
+        "name": "SG_SDRIN_E06/P/Y2/(A) - Certificate in Science in Drinking Water Treatment Operations - Y2",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSDRIN%5FE06%2FP%2FY2%2F%28A%29"
+    },
+    {
+        "name": "SG_SECOL_B07/F/Y1/1/A) - B.Sc.in Environmental Science with Ecology L7 - Yr 1",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSECOL%5FB07%2FF%2FY1%2F1%2FA%29"
+    },
+    {
+        "name": "SG_SECOL_B07/F/Y2/1/A) - B.Sc.in Environmental Science with Ecology L7 - Yr 2",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSECOL%5FB07%2FF%2FY2%2F1%2FA%29"
+    },
+    {
+        "name": "SG_SECOL_B07/F/Y3/1/A) - B.Sc.in Environmental Science with Ecology L7 - Yr 3",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSECOL%5FB07%2FF%2FY3%2F1%2FA%29"
+    },
+    {
+        "name": "SG_SECOL_C06/F/Y1/1/A) - Higher Certificate in Environmental Science with Ecology L6 - Yr 1",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSECOL%5FC06%2FF%2FY1%2F1%2FA%29"
+    },
+    {
+        "name": "SG_SECOL_C06/F/Y2/1/A) - Higher Certificate in Environmental Science with Ecology L6 - Yr 2",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSECOL%5FC06%2FF%2FY2%2F1%2FA%29"
+    },
+    {
+        "name": "SG_SECOL_H08/F/Y1/1/(A) - BSc (Hons) Environmental Science with Ecology L8 - Yr 1",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSECOL%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SECOL_H08/F/Y2/1/(A) - BSc (Hons) Environmental Science with Ecology L8 - Yr 2",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSECOL%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SECOL_H08/F/Y3/1/(A) - BSc (Hons) Environmental Science with Ecology L8 - Yr 3",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSECOL%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SEHSM_G09/P/Y5/1/(A) - Post Graduate Diplima in Science in EHS Management L9",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSEHSM%5FG09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SEHSM_G09/P/Y6/1/(A) - Post Graduate Diplima in Science in EHS Management L9 Y6",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSEHSM%5FG09%2FP%2FY6%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SEHSM_M09/P/Y5/1/(A) - M Sc Environmental Health and Safety Management L9 - Yr 5 (1st Year new course)",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSEHSM%5FM09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SEHSM_M09/P/Y6/1/(A) - M Sc Environmental Health and Safety Management L9 - Yr 6 (2nd year)",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSEHSM%5FM09%2FP%2FY6%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SENVI_B07/F/Y3/1/(A) - B.Sc.in Environmental Protection L7 - Yr 3",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSENVI%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SENVI_H08/F/Y3/1/(A) - BSc (Hons) Environmental Science L8 - Yr 3",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSENVI%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SENVI_H08/F/Y4/1/(A) - BSc (Hons) Environmental Science L8 - Yr 4",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSENVI%5FH08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SENVI_J07/P/Y1/1/(A) - BSc in Environemntal Management Level 7",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSENVI%5FJ07%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SENVI_J07/P/Y3/1/(B) - BSc in Environemntal Management Level 7",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSENVI%5FJ07%2FP%2FY3%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_SENVM_K08/P/Y1/1/(A) - Bachelor of Science (Honours) in Environmental Management",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSENVM%5FK08%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SENVP_M09/P/Y5/1/(A) - M.Sc in Environmental Protection",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSENVP%5FM09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SENVP_O09/P/Y1/1/(A) - Post Graduate Diploma in Science in Environemntal Protection",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSENVP%5FO09%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SFACI_K08/P/Y1 - BSc (Hons) in Facilities & Building Services Management - Y1",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSFACI%5FK08%2FP%2FY1"
+    },
+    {
+        "name": "SG_SFOOD_N09/P/Y1/1/(A) - Certificate in Science in Food Regulatory Affairs Level 9",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSFOOD%5FN09%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SFOOD_S09/P/Y1/1/(A) - Certificate in Food AND Nutritional Product Development L9",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSFOOD%5FS09%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SFOOF_M09/P/Y1/1/(A) - Master of Science in Food Regulatory Affairs Level 9 Y1",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSFOOF%5FM09%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SFOOF_M09/P/Y2/1/(A) - Master of Science in Food Regulatory Affairs Level 9 Y2",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSFOOF%5FM09%2FP%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SFOOF_O09/P/Y1 - Post Graduate Diploma in Food Regulatory Affairs Y1",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSFOOF%5FO09%2FP%2FY1"
+    },
+    {
+        "name": "SG_SFOOF_O09/P/Y2 - Post Graduate Diploma in Food Regulatory Affairs Y2",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSFOOF%5FO09%2FP%2FY2"
+    },
+    {
+        "name": "SG_SFORE_B07/F/Y1/1/(A) - BSc in Forensic Investigation and Anaylsis L7 - Y1 A",
+        "id": "Life Sciences",
+        "code": "SG%5FSFORE%5FB07%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SFORE_B07/F/Y1/1/(E) - Group E - BSc in Forensic Investigation and Anaylsis L7 - Y1 E",
+        "id": "Life Sciences",
+        "code": "SG%5FSFORE%5FB07%2FF%2FY1%2F1%2F%28E%29%20%2D%20Group%20E"
+    },
+    {
+        "name": "SG_SFORE_B07/F/Y2/1/(A) - BSc in Forensic Investigation and Anaylsis L7 - Y2 - A",
+        "id": "Life Sciences",
+        "code": "SG%5FSFORE%5FB07%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SFORE_B07/F/Y3/1/(A) - BSc in Forensic Investigation and Anaylsis L7 - Y3 - A",
+        "id": "Life Sciences",
+        "code": "SG%5FSFORE%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SFORE_H08/F/NT - BSc in Forensic Investigation and Anaylsis L8/Non-Teaching",
+        "id": "Life Sciences",
+        "code": "SG%5FSFORE%5FH08%2FF%2FNT"
+    },
+    {
+        "name": "SG_SFORE_H08/F/Y1/1/(B) - B.Sc. (Hons) Forensic Investigation AND Analysis L8 - Y1 - B",
+        "id": "Life Sciences",
+        "code": "SG%5FSFORE%5FH08%2FF%2FY1%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_SFORE_H08/F/Y1/1/(C) - B.Sc. (Hons) Forensic Investigation AND Analysis L8 - Y1 - C",
+        "id": "Life Sciences",
+        "code": "SG%5FSFORE%5FH08%2FF%2FY1%2F1%2F%28C%29"
+    },
+    {
+        "name": "SG_SFORE_H08/F/Y1/1/(D) - B.Sc. (Hons) Forensic Investigation AND Analysis L8 - Y1 - D",
+        "id": "Life Sciences",
+        "code": "SG%5FSFORE%5FH08%2FF%2FY1%2F1%2F%28D%29"
+    },
+    {
+        "name": "SG_SFORE_H08/F/Y2/1/(B) - B.Sc. (Hons) Forensic Investigation AND Analysis L8 - Y2 - B",
+        "id": "Life Sciences",
+        "code": "SG%5FSFORE%5FH08%2FF%2FY2%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_SFORE_H08/F/Y2/1/(C) - B.Sc. (Hons) Forensic Investigation AND Analysis L8 - Y2 - C",
+        "id": "Life Sciences",
+        "code": "SG%5FSFORE%5FH08%2FF%2FY2%2F1%2F%28C%29"
+    },
+    {
+        "name": "SG_SFORE_H08/F/Y3/1/(A) - B.Sc. (Hons) Forensic Investigation AND Analysis L8 - Y3 - A",
+        "id": "Life Sciences",
+        "code": "SG%5FSFORE%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SFORE_H08/F/Y4/1/(A) - B.Sc. (Hons) Forensic Investigation AND Analysis L8 - Y4 - A",
+        "id": "Life Sciences",
+        "code": "SG%5FSFORE%5FH08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SFORE_K08/F/Y4/1/(A) - B.Sc. (Hons) Forensic Investigation AND Analysis L8 - Y4 - A",
+        "id": "Life Sciences",
+        "code": "SG%5FSFORE%5FK08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SGOOD_C06/P/Y2/1/(A) - Higher Certificate in Science in Good Manufacturing Practice and Technology",
+        "id": "Life Sciences",
+        "code": "SG%5FSGOOD%5FC06%2FP%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SHEAL_B07/F/Y1/1/(A) - B Sc Health Science & Physiology L7 - Y1 - A Group 2",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHEAL%5FB07%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SHEAL_B07/F/Y1/2/(B) - B Sc Health Science & Physiology L7 - Y1 - B Group 3",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHEAL%5FB07%2FF%2FY1%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_SHEAL_B07/F/Y2/1/(A) - B Sc Health Science AND Physiology L7 - Y2 - A",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHEAL%5FB07%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SHEAL_B07/F/Y2/2/(B) - B Sc Health Science & Physiology L7 - Y2 - B",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHEAL%5FB07%2FF%2FY2%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_SHEAL_B07/F/Y3/1/(A) - B Sc Health Science AND Physiology L7 - Y3 - A",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHEAL%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SHEAL_B07/F/Y3/1/(B) - B Sc Health Science AND Physiology L7 - Y3 - B",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHEAL%5FB07%2FF%2FY3%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_SHEAL_B07/F/Y3/1/(C) - B Sc Health Science AND Physiology L7 - Y3 - C",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHEAL%5FB07%2FF%2FY3%2F1%2F%28C%29"
+    },
+    {
+        "name": "SG_SHEAL_C06/F/Y1/1/(A) - Higher Certificate in Science i nHealth & Exercise Science Year 1 - Group 1",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHEAL%5FC06%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SHEAL_E06/P/Y1/1/(A) - Level 6 Special Purpose Award in Science in Health AND Safety Representation",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHEAL%5FE06%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SHEAL_E09/P/Y1/1/(A) - Certificate  in Health Promotion and Wellness Practice Level 9",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHEAL%5FE09%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SHEAL_H08/F/Y1/1/(A) - BSc Hons Health Science & Physical Activity Level 8 Year 1 Group 4",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHEAL%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SHEAL_H08/F/Y1/1/(B) - BSc Hons Health Science & Physical Activity Level 8 Year 1 B Group 5",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHEAL%5FH08%2FF%2FY1%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_SHEAL_H08/F/Y2/1/(A) - B Sc Hons Health Science AND Physical Activity Level 8 Year 2",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHEAL%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SHEAL_H08/F/Y3/1/(A) - B Sc Hons Health Science AND Physical Activity Level 8 Year 3",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHEAL%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SHEAL_H08/F/Y4/1/(A) - B Sc Hons Health Science AND Physical Activity Level 8 Year 4",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHEAL%5FH08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SHEAL_H08/F/Y4/2/(B) - B Sc Hons Health Science AND Physical Activity Level 8 Year 4  Group B",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHEAL%5FH08%2FF%2FY4%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_SHEAL_M09/F/Y5/1/(A) - Master of  Science  in Health Promotion Practice Level 9",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHEAL%5FM09%2FF%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SHEAL_O09/P/Y5/1/(A) - Post Graduate Diploma in Science  in Health Project Management Level 9",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHEAL%5FO09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SHLPM_E09/P/Y1/1/(A) - Certificate in Health Project Management Level 9",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHLPM%5FE09%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SHPPM_M09/P/Y5/1/(A - Master of  Science  in Health Project Management Level 9",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHPPM%5FM09%2FP%2FY5%2F1%2F%28A"
+    },
+    {
+        "name": "SG_SHPRO_M09/P/Y5/1/(A - Master of  Science  in Health Promotion Practice Level 9",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHPRO%5FM09%2FP%2FY5%2F1%2F%28A"
+    },
+    {
+        "name": "SG_SHPRP_M09/F/Y5/1/(A - Master of  Science  in Health Project Management Level 9",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHPRP%5FM09%2FF%2FY5%2F1%2F%28A"
+    },
+    {
+        "name": "SG_SHUMA_B07/F/Y2/1/(A) - Bachelor of Science in Human Nutrition L 7 Y2",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHUMA%5FB07%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SHUMA_B07/F/Y3/1/(A) - Bachelor of Science in Human Nutrition  L 7  Y3",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHUMA%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SHUMA_H08/F/Y1/(B) - Bachelor of Science (Honours) in Human Nutrition   Y1 Group B",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHUMA%5FH08%2FF%2FY1%2F%28B%29"
+    },
+    {
+        "name": "SG_SHUMA_H08/F/Y1/3/(C - Bachelor of Science (Honours) in Human Nutrition   Y1 Group C",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHUMA%5FH08%2FF%2FY1%2F3%2F%28C"
+    },
+    {
+        "name": "SG_SHUMA_H08/F/Y2/1/(B) - Bachelor of Science (Honours) in Human Nutrition Y2 (B)",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHUMA%5FH08%2FF%2FY2%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_SHUMA_H08/F/Y2/1/(C) - Bachelor of Science (Honours) in Human Nutrition Y2 (C)",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHUMA%5FH08%2FF%2FY2%2F1%2F%28C%29"
+    },
+    {
+        "name": "SG_SHUMA_H08/F/Y3/2/(B) - Bachelor of Science (Honours) in Human Nutrition Y3 (B)",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHUMA%5FH08%2FF%2FY3%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_SHUMA_H08/F/Y3/3/(C) - Bachelor of Science (Honours) in Human Nutrition Y3 (C)",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHUMA%5FH08%2FF%2FY3%2F3%2F%28C%29"
+    },
+    {
+        "name": "SG_SHUMA_H08/F/Y4/1/(A) - Bachelor of Science (Honours) in Human Nutrition Y4 (A)",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHUMA%5FH08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SHUMA_H08/F/Y4/2/(B) - Bachelor of Science (Honours) in Human Nutrition Y4 (B)",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHUMA%5FH08%2FF%2FY4%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_SHUMA_H08/F/Y4/2/(C) - Bachelor of Science (Honours) in Human Nutrition Y4 (C)",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSHUMA%5FH08%2FF%2FY4%2F2%2F%28C%29"
+    },
+    {
+        "name": "SG_SINDU_M09/P/Y5/1/(A) - Master of Science in Industrial Pharmaceutical Science (RCSI)",
+        "id": "Life Sciences",
+        "code": "SG%5FSINDU%5FM09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SINFO_B07/F/21/1/(A) - B.Sc in Health and Medical Information Science L7 Y2",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSINFO%5FB07%2FF%2F21%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SINFO_B07/F/Y1/1/(A) - B.Sc in Health and Medical Information Science",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSINFO%5FB07%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SINFO_C06/F/Y1/1/(A) - H.C. in Science in Health and Medical Information Science",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSINFO%5FC06%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SINFO_C06/F/Y2/1/(A) - H.C. in Science in Health and Medical Information Science",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSINFO%5FC06%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SINTE_S07/P/Y1 - Level 7 Special Purpose Award in Irish Archaeology (International)",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSINTE%5FS07%2FP%2FY1"
+    },
+    {
+        "name": "SG_SIRIS_S06/P/Y1 - Certificate in Science in Irish Wild Flower Identification Level 6",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSIRIS%5FS06%2FP%2FY1"
+    },
+    {
+        "name": "SG_SIRIS_S07/P/Y1 - Level 7 Special Purpose Award in Irish Archaeology",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSIRIS%5FS07%2FP%2FY1"
+    },
+    {
+        "name": "SG_SMECH_S09/P/Y1 - Level 9 SPA in Science in Mech AND Elec Quantity Surveying",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSMECH%5FS09%2FP%2FY1"
+    },
+    {
+        "name": "SG_SMEDI_E08/P/Y1/1/(A) - Certificate in Medical Device Regulatory Affairs and Quality Level 8",
+        "id": "Life Sciences",
+        "code": "SG%5FSMEDI%5FE08%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SMEDI_H08/F/Y2/1/(A) - B.Sc (Hons) in Medical Biotechnology L8 - Y2 - A",
+        "id": "Life Sciences",
+        "code": "SG%5FSMEDI%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SMEDI_H08/F/Y2/2/(B) - B.Sc (Hons) in Medical Biotechnology L8 - Y2 - B",
+        "id": "Life Sciences",
+        "code": "SG%5FSMEDI%5FH08%2FF%2FY2%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_SMEDI_H08/F/Y3/1/(C) - B.Sc (Hons) in Medical Biotechnology L8 - Y3 - C",
+        "id": "Life Sciences",
+        "code": "SG%5FSMEDI%5FH08%2FF%2FY3%2F1%2F%28C%29"
+    },
+    {
+        "name": "SG_SMEDI_H08/F/Y4/1/(A) - B.Sc (Hons) in Medical Biotechnology L8 - Y4 - A",
+        "id": "Life Sciences",
+        "code": "SG%5FSMEDI%5FH08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SMEDI_H08/F/Y4/2/(B) - B.Sc (Hons) in Medical Biotechnology L8 - Y4 - B",
+        "id": "Life Sciences",
+        "code": "SG%5FSMEDI%5FH08%2FF%2FY4%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_SMEDI_H08/F/Y4/3/(C) - B.Sc (Hons) in Medical Biotechnology L8 - Y4 - C",
+        "id": "Life Sciences",
+        "code": "SG%5FSMEDI%5FH08%2FF%2FY4%2F3%2F%28C%29"
+    },
+    {
+        "name": "SG_SMEDI_H08/F/Y4/4/(D) - B.Sc (Hons) in Medical Biotechnology L8 - Y4 - C",
+        "id": "Life Sciences",
+        "code": "SG%5FSMEDI%5FH08%2FF%2FY4%2F4%2F%28D%29"
+    },
+    {
+        "name": "SG_SMEDI_L08/P/Y1/1/(A) - Higher Diploma in Science in Medical Device Regulatory Affairs and Quality Level 8 Y1",
+        "id": "Life Sciences",
+        "code": "SG%5FSMEDI%5FL08%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SMEDI_L08/P/Y2/1/(A - Higher Diploma in Science in Medical Device Regulatory Affairs and Quality Level 8 Y2",
+        "id": "Life Sciences",
+        "code": "SG%5FSMEDI%5FL08%2FP%2FY2%2F1%2F%28A"
+    },
+    {
+        "name": "SG_SMEDI_M09/P/Y5/(A) - Master of Science in Medical Device Regulatory Affairs",
+        "id": "Life Sciences",
+        "code": "SG%5FSMEDI%5FM09%2FP%2FY5%2F%28A%29"
+    },
+    {
+        "name": "SG_SMEDI_M09/P/Y6/1/(A) - Master of Science in Medical Device Regulatory Affairs",
+        "id": "Life Sciences",
+        "code": "SG%5FSMEDI%5FM09%2FP%2FY6%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SMEDO_E08/P/Y1/1/(A) - Certificate in Science in Medical Device Regulatory Affairs AND Operations",
+        "id": "Life Sciences",
+        "code": "SG%5FSMEDO%5FE08%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SOCCU_B07/F/Y1/1/(A) - B.Sc Occupational Safety AND Health L7 - Y1 - A",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSOCCU%5FB07%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SOCCU_B07/F/Y2/1/(A) - B.Sc Occupational Safety AND Health L7 - Y2 - A",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSOCCU%5FB07%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SOCCU_B07/F/Y3/1/(A) - B.Sc Occupational Safety AND Health L7 - Y3 - A",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSOCCU%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SOCCU_C06/P/Y1/1/(A) - Higher Certificate in Science in Occupational Safety and Health L6 Y1",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSOCCU%5FC06%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SOCCU_C06/P/Y2/1/(A) - Higher Certificate in Science in Occupational Safety and Health L6 Y2",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSOCCU%5FC06%2FP%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SOCCU_E06/P/Y1/1/(A) - Certificate in Occupational Safety AND Health (SPA)",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSOCCU%5FE06%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SOCCU_H08/F/Y1/1/(A) - B.Sc (Hons) Occupational Safety AND Health L8 - Y1 - A",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSOCCU%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SOCCU_H08/F/Y2/1/(A) - B.Sc Occupational Safety AND Health L8 - Y2 - A",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSOCCU%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SOCCU_H08/F/Y3/1/(A) - B.Sc (Hons) Occupational Safety AND Health L8 - Y3 - A",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSOCCU%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SOCCU_H08/F/Y4/1/(A) - B.Sc (Hons) Occupational Safety AND Health L8 - Y4 - A",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSOCCU%5FH08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SOCCU_J07/P/Y1/1/(A) - B.Sc Occupational Safety AND Health L7 - Y1 On Line",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSOCCU%5FJ07%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SOCCU_J07/P/Y2/1/(A) - B.Sc Occupational Safety AND Health L7 - Y2 On Line",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSOCCU%5FJ07%2FP%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SOSCLANG_S06 - Level 6 SPA in Language AND Intercultural Tourism",
+        "id": "Marketing, Tourism and Sport",
+        "code": "SG%5FSOSCLANG%5FS06"
+    },
+    {
+        "name": "SG_SOSHM_K08/P/Y4/1/(A) - B.Sc (Hons) Occupational Safety AND Health Management Level 8 on line",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSOSHM%5FK08%2FP%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SPHAD_B07/P/Y3/1/(A) - Bachelor of Science in Pharmaceutical Science",
+        "id": "Life Sciences",
+        "code": "SG%5FSPHAD%5FB07%2FP%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SPHAD_B07/P/Y3/1/(B) - Bachelor of Science in Pharmaceutical Science",
+        "id": "Life Sciences",
+        "code": "SG%5FSPHAD%5FB07%2FP%2FY3%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_SPHAR_B07/F/Y2/1/(A) - B.Sc in Pharmaceutical Science with Drug Development L7 - Y2 - A",
+        "id": "Life Sciences",
+        "code": "SG%5FSPHAR%5FB07%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SPHAR_B07/F/Y3/1/(A) - B.Sc in Pharmaceutical Science with Drug Development L7 - Y3 - A",
+        "id": "Life Sciences",
+        "code": "SG%5FSPHAR%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SPHAR_B07/F1/1(A) - B.Sc in Pharmaceutical Science with Drug DevelopmentL7 - Y1 - A",
+        "id": "Life Sciences",
+        "code": "SG%5FSPHAR%5FB07%2FF1%2F1%28A%29"
+    },
+    {
+        "name": "SG_SPHAR_H08/F/Y1/1/(A) - B.Sc (Hons) Pharmaceutical  Science with Drug Development L8 Yr 1 - A",
+        "id": "Life Sciences",
+        "code": "SG%5FSPHAR%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SPHAR_H08/F/Y2/1/(A) - B.Sc (Hons) Pharmaceutical  Science with Drug Development L8 Yr 2 - A",
+        "id": "Life Sciences",
+        "code": "SG%5FSPHAR%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SPHAR_H08/F/Y3/1/(A) - B.Sc (Hons) Pharmaceutical  Science with Drug Development L8 Yr 3 - A",
+        "id": "Life Sciences",
+        "code": "SG%5FSPHAR%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SPHAR_H08/F/Y4/1/(A) - B.Sc (Hons) Pharmaceutical  Science with Drug Development L8 Yr 4 - A",
+        "id": "Life Sciences",
+        "code": "SG%5FSPHAR%5FH08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SPHAR_H08/F/Y4/1/(B) - B.Sc (Hons) Pharmaceutical  Science with Drug Development L8 Yr 4 - B",
+        "id": "Life Sciences",
+        "code": "SG%5FSPHAR%5FH08%2FF%2FY4%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_SPRAC_E06/P/Y1/1/(A) - Certificate in Practices in Health Informatics",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSPRAC%5FE06%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SPROJ_M09/P/Y5/1/(A) - Master of Science in Project Management L9 - Online - Y1",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSPROJ%5FM09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SPROJ_M09/P/Y6/1/(A) - Master of Science in Project Management L9 - Online - Y2",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSPROJ%5FM09%2FP%2FY6%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SPROJ_M09/P/Y7/1/(A) - Master of Science in Project Management L9 - Online - Y3",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSPROJ%5FM09%2FP%2FY7%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SPROJ_O09/P/Y5/1/(A) - Postgraduate Diploma in Science in Project Management L9 - Online Y1",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSPROJ%5FO09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SPROJ_O09/P/Y6/1/(A) - Postgraduate Diploma in Science in Project Management L9 - Online Y2",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSPROJ%5FO09%2FP%2FY6%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SPROJ_S09/P/Y5/1/(A) - Certificate in Project Management Level 9 - Online",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSPROJ%5FS09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SPROP_C06/P/Y1 - Higher Certificate in Science in Property Services and Facilities Management - Y1",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSPROP%5FC06%2FP%2FY1"
+    },
+    {
+        "name": "SG_SPROP_C06/P/Y2 - Higher Certificate in Science in Property Services and Facilities Management - Y2",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSPROP%5FC06%2FP%2FY2"
+    },
+    {
+        "name": "SG_SPROP_E06/P/Y1 - Certificate in Property Services L6",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSPROP%5FE06%2FP%2FY1"
+    },
+    {
+        "name": "SG_SPROP_J07/P/Y1/1/(A) - B.Sc in Property Services and Facilities Management Y1",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSPROP%5FJ07%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SPUBL_E09/P/Y1/1/(A) - Certificate in Public Health",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSPUBL%5FE09%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SPUBL_K08/F/Y4/1/(A) - B.Sc(Hons) in Public Health AND Health Promotion L8 - Y4 - A",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSPUBL%5FK08%2FF%2FY4%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SPUBL_K08/F/Y4/2/(B) - B.Sc(Hons) in Public Health AND Health Promotion L8 - Y4 - B",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSPUBL%5FK08%2FF%2FY4%2F2%2F%28B%29"
+    },
+    {
+        "name": "SG_SPUBL_M09/F/Y5/1/(A) - Master of Science in Public Health Nutrition  LEVEL 9",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSPUBL%5FM09%2FF%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SPUNU_M09/P/Y5/1/(A) - Master of Science in Public Health Nutrition Level 9",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSPUNU%5FM09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SPUNU_M09/P/Y6/1/(A) - Master of Science in Public Health Nutrition Level 9 - Year 2",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSPUNU%5FM09%2FP%2FY6%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SQUAL_J07/P/Y2/1/(A) - BSc in Quality Management  L7 - Y2  On Line",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FSQUAL%5FJ07%2FP%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SQUAL_JO7/P/Y1/1/(A) - BSc in Quality Management  L7 - Y1 On Line",
+        "id": "Mech. and Electronic Eng.",
+        "code": "SG%5FSQUAL%5FJO7%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SREAL_K08/P/Y1 - BSc (Hons) in Real Estate Development & Valuation - Y1",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSREAL%5FK08%2FP%2FY1"
+    },
+    {
+        "name": "SG_SREGU_E06/P/Y1/1/(A) - Level 6 Certificate in Regulation of Waste Activities",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSREGU%5FE06%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SSCIE_C06/F/Y1/1/(A) - Higher Certificate in Science L6 - Y1- A",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSSCIE%5FC06%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SSCIE_H08/F/Y1/1/(A) - Bachelor of Science (Honours) Level 8 Year 1",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSSCIE%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SSPOR_M09/P/Y5/1/(A) - Master of Science in Sports and Exercise Nutrition Level 9 Y5",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSSPOR%5FM09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SSPOR_M09/P/Y6/1/(A) - Master of Science in Sports and Exercise Nutrition Level 9 Y6",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSSPOR%5FM09%2FP%2FY6%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SSPOR_O09/P/Y5/1/(A) - Master of Science in Sports and Exercise Nutrition Level 9 Year 1",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSSPOR%5FO09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SSPOR_O09/P/Y6/1/(A) - Master of Science in Sports and Exercise Nutrition Level 9 Year 6",
+        "id": "Health and Nutritional Sciences",
+        "code": "SG%5FSSPOR%5FO09%2FP%2FY6%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SSTRA_S09/P/Y5/1/(A) - Certificate in Stategic Construction Management",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSSTRA%5FS09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SSUST_M09/P/Y6 - Master of Science in Sustainable Food Systems Y6",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSSUST%5FM09%2FP%2FY6"
+    },
+    {
+        "name": "SG_SSUST_O09/P/Y6 - Post Graduate Diploma in Sustainable Food Systems Y6",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSSUST%5FO09%2FP%2FY6"
+    },
+    {
+        "name": "SG_SSUST_S09/P/Y1/(A) - Certifiate in Science in Sustainable Food Systems",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSSUST%5FS09%2FP%2FY1%2F%28A%29"
+    },
+    {
+        "name": "SG_SUSST_M09/P/Y1 - M.Sc in Sustainability in Enterprise (UCC Programme) - Y1",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSUSST%5FM09%2FP%2FY1"
+    },
+    {
+        "name": "SG_SWAST_E06/P/Y1/(A) - Certificate in Waste Water Treatment Plant Operations - Y1",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSWAST%5FE06%2FP%2FY1%2F%28A%29"
+    },
+    {
+        "name": "SG_SWAST_E06/P/Y2/(A) - Certificate in Waste Water Treatment Plant Operations - Y2",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSWAST%5FE06%2FP%2FY2%2F%28A%29"
+    },
+    {
+        "name": "SG_SWATE_A09/P/Y1/1/(A) - Certificate in Water Services Management",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSWATE%5FA09%2FP%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SWATE_C06/P/1/(A) - Higher Certificate in Science in Water and Wastewater Operations",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSWATE%5FC06%2FP%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SWATE_E06/P/1/(A) - Certificate in Science in Water and Wastewater Operations",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FSWATE%5FE06%2FP%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SWATE_M09/P/Y5/1/(A) - Master of Science in Water Services Management",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSWATE%5FM09%2FP%2FY5%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SWATE_M09/P/Y6/1/(A) - Master of Science in Water Services Management Year 2",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSWATE%5FM09%2FP%2FY6%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SWATE_M09/P/Y7/1/(A) - Master of Science in Water Services Management Year 3",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSWATE%5FM09%2FP%2FY7%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_SWATE_O09/P/Y5/1(A) - Postgraduate Diploma in Science in Water Serices Management L9 Year 5",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSWATE%5FO09%2FP%2FY5%2F1%28A%29"
+    },
+    {
+        "name": "SG_SWATE_O09/P/Y6/1(A) - Postgraduate Diploma in Science in Water Serices Management L9 Year 6",
+        "id": "Environmental Sciences",
+        "code": "SG%5FSWATE%5FO09%2FP%2FY6%2F1%28A%29"
+    },
+    {
+        "name": "SG_TADWO_B07/F/Y1/1/(A) - B.Sc in Advanced Wood & Sustainable Building Technology L7 - Y1 Group A",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FTADWO%5FB07%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_TADWO_B07/F/Y1/1/(B) - B.Sc in Advanced Wood & Sustainable Building Technology L7 - Y1 Group B",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FTADWO%5FB07%2FF%2FY1%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_TADWO_B07/F/Y1/1/(D) - Group D - B.Sc in Advanced Wood & Sustainable Building Technology L7 - Y1 Group D",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FTADWO%5FB07%2FF%2FY1%2F1%2F%28D%29%20%2D%20Group%20D"
+    },
+    {
+        "name": "SG_TADWO_B07/F/Y3/1/(A) - B.Sc in Advanced Wood & Sustainable Building Technology L7 - Y3",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FTADWO%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_TADWO_B07/Y2//1/(A) - B.Sc in Advanced Wood & Sustainable Building Technology L7 - Y2",
+        "id": "Civil Eng. and Construction",
+        "code": "SG%5FTADWO%5FB07%2FY2%2F%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_VARCH_H08/F/Y1/1/(A) - BArch (Hons) in Architecture - L8 - Y1",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FVARCH%5FH08%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_VARCH_H08/F/Y1/1/(B) - BArch (Hons) in Architecture - L8 - Y1",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FVARCH%5FH08%2FF%2FY1%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_VARCH_H08/F/Y1/1/(C) - BArch (Hons) in Architecture - L8 - Y1",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FVARCH%5FH08%2FF%2FY1%2F1%2F%28C%29"
+    },
+    {
+        "name": "SG_VARCH_H08/F/Y2/1/(A) - BArch (Hons) in Architecutre - L8 - Y2",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FVARCH%5FH08%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_VARCH_H08/F/Y2/1/(B) - BArch (Hons) in Architecutre - L8 - Y2",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FVARCH%5FH08%2FF%2FY2%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_VARCH_H08/F/Y3/1/(A) - BArch (Hons) in Architecture - L8 - Y3",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FVARCH%5FH08%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_VARCH_H08/F/Y3/1/(B) - BArch (Hons) in Architecture - L8 - Y3",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FVARCH%5FH08%2FF%2FY3%2F1%2F%28B%29"
+    },
+    {
+        "name": "SG_VARCH_H08/F/Y4 - Bachelor in Architecture (Hons) in Architecture - L8 - Y4",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FVARCH%5FH08%2FF%2FY4"
+    },
+    {
+        "name": "SG_VINTE_B07/F/Y1/1/(A) - BA in Interior Architecture AND Design L7 Y1",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FVINTE%5FB07%2FF%2FY1%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_VINTE_B07/F/Y2/1/(A) - BA in Interior Architecture & Design Y 2 - Group C",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FVINTE%5FB07%2FF%2FY2%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_VINTE_B07/F/Y3/1/(A) - BA in Interior Architecture & Design Y 3",
+        "id": "#SPLUS9FFF3E",
+        "code": "SG%5FVINTE%5FB07%2FF%2FY3%2F1%2F%28A%29"
+    },
+    {
+        "name": "SG_WSOCI_M09/P/Y1/1(A) - Master of Arts in Social Care & Social Justice Y1",
+        "id": "Social Sciences",
+        "code": "SG%5FWSOCI%5FM09%2FP%2FY1%2F1%28A%29"
+    },
+    {
+        "name": "SG_WSOCI_M09/P/Y2/1(A) - Master of Arts in Social Care & Social Justice Y2",
+        "id": "Social Sciences",
+        "code": "SG%5FWSOCI%5FM09%2FP%2FY2%2F1%28A%29"
+    },
+    {
+        "name": "SG_WSOWO_M09/F/(NT) - Master of Arts in Social Work (NT)",
+        "id": "Social Sciences",
+        "code": "SG%5FWSOWO%5FM09%2FF%2F%28NT%29"
+    },
+    {
+        "name": "SG_WSOWO_M09/F/Y1/1(A) - Master of Arts in Social Work Y1",
+        "id": "Social Sciences",
+        "code": "SG%5FWSOWO%5FM09%2FF%2FY1%2F1%28A%29"
+    },
+    {
+        "name": "SG_WSOWO_M09/F/Y2/1(A) - Master of Arts in Social Work Y2",
+        "id": "Social Sciences",
+        "code": "SG%5FWSOWO%5FM09%2FF%2FY2%2F1%28A%29"
+    },
+    {
+        "name": "SHUMA_B07/F/Y1/1/(A) - Bachelor of Science in Human Nutrition and Health  L 7 Y1",
+        "id": "Health and Nutritional Sciences",
+        "code": "SHUMA%5FB07%2FF%2FY1%2F1%2F%28A%29"
+    }
+]

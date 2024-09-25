@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Department of Business",
+        "id": "Business"
+    },
+    {
+        "name": "Department of Civil Engineering and Construction",
+        "id": "Civil Eng. and Construction"
+    },
+    {
+        "name": "Department of Computing and Electronic Engineering",
+        "id": "Computing and Creative Practices"
+    },
+    {
+        "name": "Department of Environmental Science",
+        "id": "Environmental Sciences"
+
+    },
+    {
+        "name": "Department of Health and Nutritional Sciences",
+        "id": "Health and Nutritional Sciences"
+    },
+    {
+        "name": "Department of Life Sciences",
+        "id": "Life Sciences"
+    },
+    {
+        "name": "Department of Marketing, Tourism and Sport",
+        "id": "Marketing, Tourism and Sport"
+    },
+    {
+        "name": "Department of Mechanical AND Manufacturing Engineering",
+        "id": "Mech. and Electronic Eng."
+    },
+    {
+        "name": "Department of Mechatronic Engineering",
+        "id": "#SPLUSB4CB2D"
+    },
+    {
+        "name": "Department of Social Sciences",
+        "id": "Social Sciences"
+    },
+    {
+        "name": "Dept of Engineering Technology (Apprenticeships)",
+        "id": "Apprenticeships"
+    },
+    {
+        "name": "Faculty of Business and Social Sciences",
+        "id": "Business and Social Sciences"
+    },
+    {
+        "name": "Faculty of Engineering and Design",
+        "id": "Engineering and Design"
+    },
+    {
+        "name": "Faculty of Science",
+        "id": "SCIENCE"
+    },
+    {
+        "name": "Knocknarea Arena",
+        "id": "Knocknarea Arena"
+    },
+    {
+        "name": "Yeats Academy of Arts, Design AND Architecture",
+        "id": "#SPLUS9FFF3E"
+    }
+]
